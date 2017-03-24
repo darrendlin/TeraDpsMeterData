@@ -387,6 +387,9 @@
 4031	ASpd	0	0	abs	1800000	0	10	만능 전투 비약	101212	만능 전투 비약 (7일)	지속 시간 동안 아래의 효과를 얻습니다.  힘 27% 증가 맷집 20% 증가 매 5초마다 전체 MP의 13% 회복 공격 스킬의 재사용 시간 15% 감소 공격 속도 10 증가	icon_items.add_extract_potion_2_tex
 4031	MPChange	0	0.13	perc	1800000	5	0.13	만능 전투 비약	101212	만능 전투 비약 (7일)	지속 시간 동안 아래의 효과를 얻습니다.  힘 27% 증가 맷집 20% 증가 매 5초마다 전체 MP의 13% 회복 공격 스킬의 재사용 시간 15% 감소 공격 속도 10 증가	icon_items.add_extract_potion_2_tex
 4031	CDR	0	0	swch	1800000	0	0.85	만능 전투 비약	101212	만능 전투 비약 (7일)	지속 시간 동안 아래의 효과를 얻습니다.  힘 27% 증가 맷집 20% 증가 매 5초마다 전체 MP의 13% 회복 공격 스킬의 재사용 시간 15% 감소 공격 속도 10 증가	icon_items.add_extract_potion_2_tex
+4034	ASpd	0	0	perc	900000	0	1.1	[이벤트] 루키나의 자신만만 초콜렛	139831	[이벤트] 루키나의 자신만만 초콜렛	발렌타인 데이 기념 초콜렛으로 자신감이 쑥쑥 올라가는 초콜렛입니다. 공격 속도가 10% 향상됩니다.	icon_items.heartchocolate_tex
+4035	Crit	0	0	abs	900000	0	20	[이벤트] 라무스의 똑똑한 초콜렛	139832	[이벤트] 라무스의 똑똑한 초콜렛	발렌타인 데이 기념 초콜렛으로 머리가 똑똑해지는 초콜렛입니다. 치명타 유발 효과가 20 증가됩니다.	icon_items.drug_all_stats_up_tex
+4036	CDR	0	0	swch	900000	0	0.9	[이벤트] 로스의 사과장인 초콜렛	139833	[이벤트] 로스의 사과장인 초콜렛	발렌타인 데이 기념 초콜렛으로 정성이 가득한 초콜렛입니다. 공격 스킬의 재사용 시간이 10% 감소됩니다.	icon_items.candyapple_tex
 4400	MaxHP	0	0	abs	300000	0	0	스마일 폭죽	339	스마일 폭죽	Don't Worry. Be happy! 웃으면 복이 와요!	icon_status.smile_firecracker_abnormality_tex
 4404	Power	0	0	perc	604800000	0	1.1	[친구 초대 혜택] 공격력 10 % 증가 효과	81227	공격력 강화 시약	짜릿짜릿한 공격의 손맛을 느껴 보세요! 7일 동안 공격 시 공격력이 10%가 증가합니다. 다른 종류의 공격력 증가 아이템 사용 시 효과가 중복 적용되며 접속이 종료되어도 기간이 차감됩니다.	icon_status.buff_of_kaia_tex
 4600	CrystalBind	0	0	abs	3600000	0	1	크리스탈 보호 주문서	354	크리스탈 보호 주문서	사망 시 크리스탈이 깨지는 것을 방지하며 1만큼 중첩이 삭제됩니다. 이 효과는 최대 99번까지 중첩됩니다. 완전한 크리스탈 보호 주문서가 적용된 상태에선 효과가 적용되지 않습니다.	icon_items.q_closedspace_stone_05_tex
@@ -1113,6 +1116,7 @@
 400800	Block	0	0	perc	6000	0	0	살기 분출 I			이동 속도가 60% 감소됩니다. 추가로 플레이어 캐릭터에게 효과 적용 시에는 효과 지속 시간 동안 회피 및 이동 계열 스킬을 사용할 수 없습니다.	icon_skills.murderousvent_tex
 400801	MovSpd	0	0	setp	6000	0	0.38	살기 분출 II			이동 속도가 62% 감소됩니다. 추가로 플레이어 캐릭터에게 효과 적용 시에는 효과 지속 시간 동안 회피 및 이동 계열 스킬을 사용할 수 없습니다.	icon_skills.murderousvent_tex
 400801	Block	0	0	perc	6000	0	0	살기 분출 II			이동 속도가 62% 감소됩니다. 추가로 플레이어 캐릭터에게 효과 적용 시에는 효과 지속 시간 동안 회피 및 이동 계열 스킬을 사용할 수 없습니다.	icon_skills.murderousvent_tex
+400900	Power	0	0	perc	100	0	1	늑골 부수기			늑골 부수기 스킬을 사용할 수 있습니다.	icon_skills.ribbreaker_tex
 401400	Crit	0	0	abs	0	0	-18	분노의 역류 I			주변 8m 범위로 분노를 방출하며, 추가로 모든 공격 스킬에 의한 적대치가 40% 향상되며 전투 시 몬스터의 특수한 일부공격을 제외하고 밀려나지 않습니다.	icon_skills.toughspirit_tex
 401400	MPChange	0	50	abs	0	1	50	분노의 역류 I			주변 8m 범위로 분노를 방출하며, 추가로 모든 공격 스킬에 의한 적대치가 40% 향상되며 전투 시 몬스터의 특수한 일부공격을 제외하고 밀려나지 않습니다.	icon_skills.toughspirit_tex
 401400	CDR	0	0	swch	0	0	0.33	분노의 역류 I			주변 8m 범위로 분노를 방출하며, 추가로 모든 공격 스킬에 의한 적대치가 40% 향상되며 전투 시 몬스터의 특수한 일부공격을 제외하고 밀려나지 않습니다.	icon_skills.toughspirit_tex
@@ -1393,10 +1397,11 @@
 501323	Block	0	0	perc	8000	0	0	속박의 저주 IV			지속 시간 동안 제 자리에서 움직일 수 없으며, 회피 및 이동 계열 스킬도 사용할 수 없습니다. 일정 이상 피해를 받거나 다운되면 효과는 즉시 해제됩니다.	icon_skills.curseofshackle_tex
 501400	MovSpd	0	0	perc	3000	0	0.9	얼음 폭풍			매서운 얼음 폭풍에 의해 몸이 얼어 붙어 매 중첩 시마다 이동 속도가 10%씩 감소됩니다. 이 효과는 최대 4번까지 중첩됩니다.	icon_skills.icestorm_tex
 501402	MovSpd	0	0	perc	3000	0	0.9	얼음 폭풍			매서운 얼음 폭풍에 의해 몸이 얼어 붙어 매 중첩 시마다 이동 속도가 10%씩 감소됩니다. 이 효과는 최대 4번까지 중첩됩니다.	icon_skills.icestorm_tex
-501600	Endurance	0	0	perc	400	0	1	공간 왜곡 I			1s동안 피해를 무효화 시키고, 최대 MP의 5%를 회복합니다. 이상상태가 지속되는 동안 마력 강화II의 효과가 적용되지 않습니다.	icon_skills.distortionfield_tex
 501600	MPChange	0	0.05	perc	900	1	0.05	공간 왜곡 I			1s동안 피해를 무효화 시키고, 최대 MP의 5%를 회복합니다. 이상상태가 지속되는 동안 마력 강화II의 효과가 적용되지 않습니다.	icon_skills.distortionfield_tex
-501600	AtkPotion	0	0	perc	4000	0	0.8	공간 왜곡 I			1s동안 피해를 무효화 시키고, 최대 MP의 5%를 회복합니다. 이상상태가 지속되는 동안 마력 강화II의 효과가 적용되지 않습니다.	icon_skills.distortionfield_tex
 501601	MPChange	0	0.05	perc	900	1	0.05	공간 왜곡 I			1s동안 피해를 무효화 시키고, 최대 MP의 5%를 회복합니다. 이상상태가 지속되는 동안 마력 강화II의 효과가 적용되지 않습니다.	icon_skills.distortionfield_tex
+501650	ASpd	0	0	perc	1000	0	0.7	공간 왜곡 I			1s동안 피해를 무효화 시키고, 최대 MP의 5%를 회복합니다. 이상상태가 지속되는 동안 마력 강화II의 효과가 적용되지 않습니다.	icon_skills.distortionfield_tex
+501650	MPChange	0	0.05	perc	900	1	0.05	공간 왜곡 I			1s동안 피해를 무효화 시키고, 최대 MP의 5%를 회복합니다. 이상상태가 지속되는 동안 마력 강화II의 효과가 적용되지 않습니다.	icon_skills.distortionfield_tex
+501650	AtkPotion	0	0	perc	1000	0	0.8	공간 왜곡 I			1s동안 피해를 무효화 시키고, 최대 MP의 5%를 회복합니다. 이상상태가 지속되는 동안 마력 강화II의 효과가 적용되지 않습니다.	icon_skills.distortionfield_tex
 600400	MovSpd	0	0	setp	7000	0	0.3	거미줄 덫			교묘한 거미줄에 걸려 이동 속도가 70% 감소됩니다.	icon_skills.webtrap_tex
 600500	DefPotion	0	0	perc	30000	0	1.1	궁수의 징표 I			집중 공격 대상으로 지목됐습니다! 궁수 클래스에게 효과 지속 시간 중 공격을 받으면 10% 더 많은 피해를 입게 됩니다.	icon_skills.markingofarcher_tex
 600501	DefPotion	0	0	perc	35000	0	1.1	궁수의 징표 II			집중 공격 대상으로 지목됐습니다! 궁수 클래스에게 효과 지속 시간 중 공격을 받으면 10% 더 많은 피해를 입게 됩니다.	icon_skills.markingofarcher_tex
@@ -1697,9 +1702,9 @@
 781002	Power	0	0	perc	10000	0	1	무기력			스킬을 사용할 수 없습니다.	icon_status.confuseup_tex
 781003	Power	0	0	perc	3000	0	1	반갑지 않은 매력			모든 적대적인 대상이 당신을 공격하려고 합니다!	icon_status.confuseup_tex
 781004	Power	0	0	perc	10000	0	1	술래			술래가 되었습니다! 유령이 당신을 쫓아갑니다!	icon_status.injuredbtdarkness_tex
-781010	HPChange	-0.05	0	perc	7000	1	-0.05	암흑 파편			해제될 때까지 1s마다 전체 HP 대비 5%에 달하는 HP가 지속적으로 감소되며, 스킬을 사용할 수 없습니다. 	icon_status.fearstatus_tex
-781010	Block	0	0	swch	7000	0	0	암흑 파편			해제될 때까지 1s마다 전체 HP 대비 5%에 달하는 HP가 지속적으로 감소되며, 스킬을 사용할 수 없습니다. 	icon_status.fearstatus_tex
-781011	HPChange	-0.1	0	perc	15000	3	-0.1	화상			3s마다 전체 HP 대비 10%에 달하는 HP가 지속적으로 감소됩니다. 다르칸의 꺼지지 않는 불꽃은 해제할 수 없습니다.	icon_status.firedamage_tex
+781010	HPChange	-0.03	0	perc	7000	1	-0.03	암흑 파편			해제될 때까지 1s마다 전체 HP 대비 3%에 달하는 HP가 지속적으로 감소되며, 스킬을 사용할 수 없습니다. 	icon_status.fearstatus_tex
+781010	Block	0	0	swch	7000	0	0	암흑 파편			해제될 때까지 1s마다 전체 HP 대비 3%에 달하는 HP가 지속적으로 감소되며, 스킬을 사용할 수 없습니다. 	icon_status.fearstatus_tex
+781011	HPChange	-0.03	0	perc	15000	3	-0.03	화상			3s마다 전체 HP 대비 3%에 달하는 HP가 지속적으로 감소됩니다. 다르칸의 꺼지지 않는 불꽃은 해제할 수 없습니다.	icon_status.firedamage_tex
 781016	Power	0	0	perc	6000000	0	1.1	듀리온의 광기			부활한 듀리온이 점점 광기에 휩쌓입니다! 공격력이 10%증가하고, 방어력이 5%하락합니다.	icon_skills.gatheringrage_tex
 781016	Endurance	0	0	perc	6000000	0	0.95	듀리온의 광기			부활한 듀리온이 점점 광기에 휩쌓입니다! 공격력이 10%증가하고, 방어력이 5%하락합니다.	icon_skills.gatheringrage_tex
 781018	HPChange	-300000	0	seta	17000	17	-300000	듀리온의 저주			17s마다 전체 HP 대비 100%에 달하는 HP가 지속적으로 감소됩니다. 정화장치에 접근해야만 해제할 수 있습니다!	icon_status.firedamage_tex
@@ -1708,6 +1713,8 @@
 781027	MovSpd	0	0	perc	10000	0	1	흑마력 집중			부활한 듀리온이 당신에게 흑마력을 집중하고 있습니다. 뭔가 불길한 예감이 듭니다.	icon_status.minusfocus_tex
 781028	MovSpd	0	0	perc	30000	0	0.26	흑마력 방패			부활한 듀리온이 사악한 흑마력으로 온 몸을 방어하고 있습니다.	icon_skills.manashield_tex
 781028	MovSpdInCombat	0	0	perc	30000	0	0.26	흑마력 방패			부활한 듀리온이 사악한 흑마력으로 온 몸을 방어하고 있습니다.	icon_skills.manashield_tex
+781029	MovSpd	0	0	setp	30000	0	0	암흑 패기			부활한 듀리온의 흑마법이 온 몸을 파고들어 몸을 움직일 수 없습니다.	icon_status.staminadown_tex
+781029	MovSpdInCombat	0	0	setp	30000	0	0	암흑 패기			부활한 듀리온의 흑마법이 온 몸을 파고들어 몸을 움직일 수 없습니다.	icon_status.staminadown_tex
 781036	Power	0	0	perc	0	0	1.1	광폭화			다시 찾아온 죽음의 위기 앞에서 부활한 다르칸이 분노합니다. 공격력이 10%상승하고, 이동 속도가 5% 상승합니다.	icon_status.archerspirit_tex
 781036	MovSpd	0	0	perc	0	0	1.05	광폭화			다시 찾아온 죽음의 위기 앞에서 부활한 다르칸이 분노합니다. 공격력이 10%상승하고, 이동 속도가 5% 상승합니다.	icon_status.archerspirit_tex
 781038	MovSpd	0	0	perc	30000	0	0.5	부담감			신을 상대하는 부담감으로 이동 속도가 저하됩니다! 해제 가능합니다!	icon_status.archerspirit_tex
@@ -1728,6 +1735,8 @@
 781061	Endurance	0	0	perc	6000000	0	0.8	집중력 하락			라칸의 공격에 맞아 정신이 멍해졌습니다. 방어력이 10%하락하며, 최대 5중첩까지 쌓입니다.	icon_status.fearstatus_tex
 781081	Power	0	0	perc	20000000	0	1	순간 이동 후유증			순간 이동의 후유증으로 3만의 피해를 입습니다.	icon_status.firedamage_tex
 781083	MovSpd	0	0	perc	30000	0	1	집중 주시대상			부활한 듀리온이 나만 쳐다보는 것 같습니다. 뭔가 끔찍한 일이 일어 날 것 같습니다!	icon_skills.througharrow_tex
+781087	MovSpd	0	0	setp	30000	0	0	암흑 패기			부활한 듀리온의 흑마법이 온 몸을 파고들어 몸을 움직일 수 없습니다.	icon_status.staminadown_tex
+781087	MovSpdInCombat	0	0	setp	30000	0	0	암흑 패기			부활한 듀리온의 흑마법이 온 몸을 파고들어 몸을 움직일 수 없습니다.	icon_status.staminadown_tex
 781088	MovSpd	0	0	perc	30000	0	1	주시			부활한 듀리온이 당신을 주시하고 있습니다. 불길합니다.	icon_skills.markingofarcher_tex
 781089	Power	0	0	perc	990000000	0	1.03	불안정한 마기			부활한 듀리온이 라칸의 권능을 빌려 마기를 폭주시켰습니다. 부활한 듀리온의 공격력이 강해지고 공격 속도가 더 빨라지지만 그의 몸이 불안정한 마기로 둘러싸입니다. 만약, 마기를 안정화할 시간이 주어진다면 감당할 수 없을 것입니다.	icon_status.darkriftarearage_tex
 781089	ASpd	0	0	perc	990000000	0	1.03	불안정한 마기			부활한 듀리온이 라칸의 권능을 빌려 마기를 폭주시켰습니다. 부활한 듀리온의 공격력이 강해지고 공격 속도가 더 빨라지지만 그의 몸이 불안정한 마기로 둘러싸입니다. 만약, 마기를 안정화할 시간이 주어진다면 감당할 수 없을 것입니다.	icon_status.darkriftarearage_tex
@@ -1990,8 +1999,8 @@
 950163	CDR	0	0	swch	10000	0	0.5	사기 증진			사기가 올라 공격 속도가 20% 증가하고, 스킬 재사용 시간이 50% 감소합니다.	icon_status.bloodmadness_tex
 950164	HPChange	-10000000	0	perc	3000	1	-10000000	분진			분진에 뒤덮였습니다. 지속시간 종료 시 분진에 의해 터지게 됩니다. 베르고스의 분진 공격에 맞거나 내려찍기 공격에 맞아도 터지게 됩니다. 베르고스의 화염 공격에 맞으면 폭발하여 해당 상태가 해제됩니다.	icon_status.vergosdust_tex
 950164	DefPotion	0	0	perc	9000	0	0.1	분진			분진에 뒤덮였습니다. 지속시간 종료 시 분진에 의해 터지게 됩니다. 베르고스의 분진 공격에 맞거나 내려찍기 공격에 맞아도 터지게 됩니다. 베르고스의 화염 공격에 맞으면 폭발하여 해당 상태가 해제됩니다.	icon_status.vergosdust_tex
-950165	HPChange	-10000000	0	perc	3000	1	-10000000	화염			화염에 뒤덮였습니다. 지속시간 종료 시 화염에 의해 터제기 됩니다. 베르고스의 화염 공격에 맞거나 내려찍기 공격에 맞아도 터지게 됩니다. 베르고스의 분진 공격에 맞으면 폭발하여 해당 상태가 해제됩니다.	icon_status.vergosflame_tex
-950165	DefPotion	0	0	perc	9000	0	0.1	화염			화염에 뒤덮였습니다. 지속시간 종료 시 화염에 의해 터제기 됩니다. 베르고스의 화염 공격에 맞거나 내려찍기 공격에 맞아도 터지게 됩니다. 베르고스의 분진 공격에 맞으면 폭발하여 해당 상태가 해제됩니다.	icon_status.vergosflame_tex
+950165	HPChange	-10000000	0	perc	3000	1	-10000000	화염			화염에 뒤덮였습니다. 지속시간 종료 시 화염에 의해 터지게 됩니다. 베르고스의 화염 공격에 맞거나 내려찍기 공격에 맞아도 터지게 됩니다. 베르고스의 분진 공격에 맞으면 폭발하여 해당 상태가 해제됩니다.	icon_status.vergosflame_tex
+950165	DefPotion	0	0	perc	9000	0	0.1	화염			화염에 뒤덮였습니다. 지속시간 종료 시 화염에 의해 터지게 됩니다. 베르고스의 화염 공격에 맞거나 내려찍기 공격에 맞아도 터지게 됩니다. 베르고스의 분진 공격에 맞으면 폭발하여 해당 상태가 해제됩니다.	icon_status.vergosflame_tex
 950168	Endurance	0	0	perc	0	0	100	광폭화			베르고스가 광폭화하여 힘과 공격 속도, 방어도가 비약적으로 증가합니다. 더 이상 그를 막을 수 없습니다.	icon_status.summonvergos_tex
 950168	Attack	0	0	perc	0	0	10	광폭화			베르고스가 광폭화하여 힘과 공격 속도, 방어도가 비약적으로 증가합니다. 더 이상 그를 막을 수 없습니다.	icon_status.summonvergos_tex
 950168	ASpd	0	0	perc	0	0	2	광폭화			베르고스가 광폭화하여 힘과 공격 속도, 방어도가 비약적으로 증가합니다. 더 이상 그를 막을 수 없습니다.	icon_status.summonvergos_tex
@@ -2002,6 +2011,8 @@
 950192	Attack	0	0	perc	0	0	10	끓어 오르는 분노			베르고스의 분노가 끓어오르고 있습니다. 시간이 지나면 베르고스가 광폭화 합니다.	icon_status.dragonberserk_tex
 950193	Attack	0	0	perc	0	0	10	끓어 오르는 분노			베르고스의 분노가 끓어오르고 있습니다. 시간이 지나면 베르고스가 광폭화 합니다.	icon_status.dragonberserk_tex
 950197	Endurance	0	0	perc	20000	0	1.5	신계의 마력 흡수			베르고스가 신계의 마력을 흡수하고 있습니다. 신계의 마력 덕분에 베르고스의 방어력이 1.5배 강력해 집니다.	icon_status.plusedefence_tex
+950200	Endurance	0	0	perc	1	0	1	기운 밀집			곧 알 수 없는 기운에 뒤덮입니다.	icon_items.question1a_tex
+950201	Endurance	0	0	perc	1	0	1	기운 밀집			곧 알 수 없는 기운에 뒤덮입니다.	icon_items.question1a_tex
 950300	ASpd	0	0	perc	90000	0	1.25	대지의 힘			살레오스가 대지의 힘을 받아 강력해집니다. 중첩 당 공격 속도가 25%씩 증가합니다.	icon_status.earthblessing_tex
 950306	Attack	0	0	perc	0	0	10	광폭화			용들이 광폭화하여 공격력이 10배 증가하고, 공격속도가 2배 증가합니다.	icon_status.dragonberserk_tex
 950306	ASpd	0	0	perc	0	0	2	광폭화			용들이 광폭화하여 공격력이 10배 증가하고, 공격속도가 2배 증가합니다.	icon_status.dragonberserk_tex
@@ -2013,6 +2024,17 @@
 950340	HPChange	-0.15	0	perc	10000	2	-0.15	바람에 의한 상처			아가레스의 날갯짓에 의해 상처를 입었습니다. 지속적으로 피해를 입습니다.	icon_status.whirl_tex
 950342	DefPotion	0	0	perc	0	0	0.1	위기 의식			살레오스가 위기 의식을 느껴 갑피를 단단하게 합니다. 이 효과를 해제해야 합니다.	icon_status.earthpower_tex
 950343	DefPotion	0	0	perc	0	0	0.1	단단한 갑피			살레오스의 갑피가 단단해져 받는 피해가 90% 감소하며, 주는 피해가 20% 증가합니다. 단단한 갑피는 타격 시마다 조금씩 벗겨집니다.	icon_status.earthpower_tex
+950415	HPChange	-0.1	0	perc	5000	1	-0.1	깊은 상처			깊은 상처로 인해 출혈이 발생하고 있습니다. 1초당 10%의 HP가 감소 합니다.	icon_status.curse_tex
+950436	Block	0	0	swch	30000	0	0	대지의 바위			대지의 바위에 갇혔습니다. 바위는 시간이 지나면 폭발하여 넓은 지역에 큰 피해를 입힙니다.	icon_status.rock_tex
+950513	Endurance	0	0	perc	60000	0	1.1	마력 갑피			베르고스가 자신의 갑피에 마력을 주입했습니다. 중첩당 방어도가 10%씩 증가하고 공격 속도가 20%씩 증가 합니다.	icon_status.plusedefence_tex
+950513	ASpd	0	0	perc	60000	0	1.2	마력 갑피			베르고스가 자신의 갑피에 마력을 주입했습니다. 중첩당 방어도가 10%씩 증가하고 공격 속도가 20%씩 증가 합니다.	icon_status.plusedefence_tex
+950514	Endurance	0	0	perc	60000	0	1.1	마력 갑피 생성			베르고스가 자신의 갑피에 마력을 주입하고 있습니다. 해제 해야 합니다.	icon_status.plusedefence_tex
+950515	Endurance	0	0	perc	0	0	1.7	최후의 저항			베르고스가 자신의 남은 힘을 모두 끌어내어 저항하고 있습니다. 공격 속도가 40% 증가하고 방어도가 70% 증가합니다.	icon_status.vergosdust_tex
+950515	ASpd	0	0	perc	0	0	1.4	최후의 저항			베르고스가 자신의 남은 힘을 모두 끌어내어 저항하고 있습니다. 공격 속도가 40% 증가하고 방어도가 70% 증가합니다.	icon_status.vergosdust_tex
+950516	Endurance	0	0	perc	1	0	1	화염 밀집			곧 화염에 뒤덮입니다.	icon_status.vergosflame_tex
+950517	Endurance	0	0	perc	1	0	1	분진 밀집			곧 분진에 뒤덮입니다.	icon_status.vergosdust_tex
+950518	Endurance	0	0	perc	1000	0	1	앞발의 상처			베르고스의 앞발에 피격되어 상처가 벌어졌습니다. 다시 한번 해당 공격에 맞으면 폭발합니다.	icon_status.damageup_tex
+950519	Endurance	0	0	perc	1000	0	1	뒷발의 상처			베르고스의 뒷발에 피격되어 상처가 벌어졌습니다. 다시 한번 해당 공격에 맞으면 폭발합니다.	icon_status.damagedown_tex
 975031	HPChange	-0.01	0	perc	5000	1	-0.01	냉온찜질			화염과 냉기가 적절히 섞이면 피가 깎입니다	icon_status.poisonstatus_tex
 975039	MovSpdInCombat	0	0	perc	5000	0	2	켈사이크의둥지_전용_중간보스이속증가_효과			주변 5m 범위 아군에게 이동속도 증가	icon_status.plusmove_tex
 975041	DefPotion	0	0	perc	5000	0	0	켈사이크의둥지_전용_보스주변무적_효과			주변 10m 범위 아군에게 무적 보호막	icon_status.plusedefence_tex
@@ -2043,8 +2065,8 @@
 981002	Power	0	0	perc	10000	0	1	무기력			스킬을 사용할 수 없습니다.	icon_status.confuseup_tex
 981003	Power	0	0	perc	3000	0	1	반갑지 않은 매력			모든 적대적인 대상이 당신을 공격하려고 합니다!	icon_status.confuseup_tex
 981004	Power	0	0	perc	10000	0	1	술래			술래가 되었습니다! 유령이 당신을 쫓아갑니다!	icon_status.injuredbtdarkness_tex
-981010	HPChange	-0.08	0	perc	10000	1	-0.08	암흑 파편			해제될 때까지 1s마다 전체 HP 대비 5%에 달하는 HP가 지속적으로 감소되며, 스킬을 사용할 수 없습니다. 	icon_status.fearstatus_tex
-981010	Block	0	0	swch	10000	0	0	암흑 파편			해제될 때까지 1s마다 전체 HP 대비 5%에 달하는 HP가 지속적으로 감소되며, 스킬을 사용할 수 없습니다. 	icon_status.fearstatus_tex
+981010	HPChange	-0.08	0	perc	10000	1	-0.08	암흑 파편			해제될 때까지 1s마다 전체 HP 대비 8%에 달하는 HP가 지속적으로 감소되며, 스킬을 사용할 수 없습니다. 	icon_status.fearstatus_tex
+981010	Block	0	0	swch	10000	0	0	암흑 파편			해제될 때까지 1s마다 전체 HP 대비 8%에 달하는 HP가 지속적으로 감소되며, 스킬을 사용할 수 없습니다. 	icon_status.fearstatus_tex
 981011	HPChange	-0.1	0	perc	15000	3	-0.1	화상			3s마다 전체 HP 대비 10%에 달하는 HP가 지속적으로 감소됩니다. 다르칸의 꺼지지 않는 불꽃은 해제할 수 없습니다.	icon_status.firedamage_tex
 981016	Power	0	0	perc	6000000	0	1.1	듀리온의 광기			부활한 듀리온이 점점 광기에 휩쌓입니다! 공격력이 10%증가하고, 방어력이 5%하락합니다.	icon_skills.gatheringrage_tex
 981016	Endurance	0	0	perc	6000000	0	0.95	듀리온의 광기			부활한 듀리온이 점점 광기에 휩쌓입니다! 공격력이 10%증가하고, 방어력이 5%하락합니다.	icon_skills.gatheringrage_tex
@@ -2054,9 +2076,11 @@
 981027	MovSpd	0	0	perc	10000	0	1	흑마력 집중			부활한 듀리온이 당신에게 흑마력을 집중하고 있습니다. 뭔가 불길한 예감이 듭니다.	icon_status.minusfocus_tex
 981028	MovSpd	0	0	perc	30000	0	0.26	흑마력 방패			부활한 듀리온이 사악한 흑마력으로 온 몸을 방어하고 있습니다.	icon_skills.manashield_tex
 981028	MovSpdInCombat	0	0	perc	30000	0	0.26	흑마력 방패			부활한 듀리온이 사악한 흑마력으로 온 몸을 방어하고 있습니다.	icon_skills.manashield_tex
-981036	Power	0	0	perc	0	0	1.1	광폭화			다시 찾아온 죽음의 위기 앞에서 부활한 다르칸이 분노합니다. 공격력이 10%상승하고, 이동 속도가 5% 상승합니다.	icon_status.archerspirit_tex
-981036	MovSpd	0	0	perc	0	0	1.05	광폭화			다시 찾아온 죽음의 위기 앞에서 부활한 다르칸이 분노합니다. 공격력이 10%상승하고, 이동 속도가 5% 상승합니다.	icon_status.archerspirit_tex
-981036	ASpd	0	0	perc	0	0	1.05	광폭화			다시 찾아온 죽음의 위기 앞에서 부활한 다르칸이 분노합니다. 공격력이 10%상승하고, 이동 속도가 5% 상승합니다.	icon_status.archerspirit_tex
+981029	MovSpd	0	0	setp	30000	0	0	암흑 패기			부활한 듀리온의 흑마법이 온 몸을 파고들어 몸을 움직일 수 없습니다.	icon_status.staminadown_tex
+981029	MovSpdInCombat	0	0	setp	30000	0	0	암흑 패기			부활한 듀리온의 흑마법이 온 몸을 파고들어 몸을 움직일 수 없습니다.	icon_status.staminadown_tex
+981036	Power	0	0	perc	0	0	1.1	광폭화			다시 찾아온 죽음의 위기 앞에서 부활한 다르칸이 분노합니다. 공격력이 10%상승하고, 이동 속도와 공격 속도가 5% 상승합니다.	icon_status.archerspirit_tex
+981036	MovSpd	0	0	perc	0	0	1.05	광폭화			다시 찾아온 죽음의 위기 앞에서 부활한 다르칸이 분노합니다. 공격력이 10%상승하고, 이동 속도와 공격 속도가 5% 상승합니다.	icon_status.archerspirit_tex
+981036	ASpd	0	0	perc	0	0	1.05	광폭화			다시 찾아온 죽음의 위기 앞에서 부활한 다르칸이 분노합니다. 공격력이 10%상승하고, 이동 속도와 공격 속도가 5% 상승합니다.	icon_status.archerspirit_tex
 981038	MovSpd	0	0	perc	30000	0	0.5	부담감			신을 상대하는 부담감으로 이동 속도가 저하됩니다! 해제 가능합니다!	icon_status.archerspirit_tex
 981038	MovSpdInCombat	0	0	perc	30000	0	0.5	부담감			신을 상대하는 부담감으로 이동 속도가 저하됩니다! 해제 가능합니다!	icon_status.archerspirit_tex
 981040	HPChange	-0.07	0	perc	120000	1	-0.07	고통			신의 공격에 맞아 체력이 지속적으로 감소합니다.	icon_status.firedamage_tex
@@ -2075,6 +2099,8 @@
 981061	Endurance	0	0	perc	6000000	0	0.8	집중력 하락			라칸의 공격에 맞아 정신이 멍해졌습니다. 방어력이 10%하락하며, 최대 5중첩까지 쌓입니다.	icon_status.fearstatus_tex
 981081	Power	0	0	perc	20000000	0	1	순간 이동 후유증			순간 이동의 후유증으로 3만의 피해를 입습니다.	icon_status.firedamage_tex
 981083	MovSpd	0	0	perc	30000	0	1	집중 주시대상			부활한 듀리온이 나만 쳐다보는 것 같습니다. 뭔가 끔찍한 일이 일어 날 것 같습니다!	icon_skills.througharrow_tex
+981087	MovSpd	0	0	setp	30000	0	0	암흑 패기			부활한 듀리온의 흑마법이 온 몸을 파고들어 몸을 움직일 수 없습니다.	icon_status.staminadown_tex
+981087	MovSpdInCombat	0	0	setp	30000	0	0	암흑 패기			부활한 듀리온의 흑마법이 온 몸을 파고들어 몸을 움직일 수 없습니다.	icon_status.staminadown_tex
 981088	MovSpd	0	0	perc	30000	0	1	주시			부활한 듀리온이 당신을 주시하고 있습니다. 불길합니다.	icon_skills.markingofarcher_tex
 981089	Power	0	0	perc	990000000	0	1.03	불안정한 마기			부활한 듀리온이 라칸의 권능을 빌려 마기를 폭주시켰습니다. 부활한 듀리온의 공격력이 강해지고 공격 속도가 더 빨라지지만 그의 몸이 불안정한 마기로 둘러싸입니다. 만약, 마기를 안정화할 시간이 주어진다면 감당할 수 없을 것입니다.	icon_status.darkriftarearage_tex
 981089	ASpd	0	0	perc	990000000	0	1.03	불안정한 마기			부활한 듀리온이 라칸의 권능을 빌려 마기를 폭주시켰습니다. 부활한 듀리온의 공격력이 강해지고 공격 속도가 더 빨라지지만 그의 몸이 불안정한 마기로 둘러싸입니다. 만약, 마기를 안정화할 시간이 주어진다면 감당할 수 없을 것입니다.	icon_status.darkriftarearage_tex
@@ -2269,24 +2295,24 @@
 10152120	Endurance	0	0	perc	0	0	1	과부하			아케인 에너지가 가득 충전되었습니다. 이제 눈 앞에 거슬리는 모든 것들을 부숴버릴 때입니다.	icon_skills.excesselectron_tex
 10152130	MovSpd	0	0	perc	5100	0	1.5	전쟁광			마공사가 미쳐 날뜁니다!!	icon_skills.warmonger_tex
 10153020	Block	0	0	swch	3000	0	0	강타 (방어)			허공에서 중심을 잃어 정신을 차릴 수 없습니다.	icon_skills.smashattack02_tex
-10153040	Power	0	0	abs	0	0	30	거인의 힘 (방어)			몸을 거대화 하여 내면의 엄청난 힘을 끌어냅니다. 공격 속도가 10 감소하는 대신 힘 30, 치명타 유발 30이 증가하고, 추가 적대치 10%를 획득하고, 모든 스킬 재사용 시간이 30% 감소하며 모든 스킬이 전방 방어 효과를 갖게 됩니다.	icon_skills.rampage_tex
-10153040	Crit	0	0	abs	0	0	30	거인의 힘 (방어)			몸을 거대화 하여 내면의 엄청난 힘을 끌어냅니다. 공격 속도가 10 감소하는 대신 힘 30, 치명타 유발 30이 증가하고, 추가 적대치 10%를 획득하고, 모든 스킬 재사용 시간이 30% 감소하며 모든 스킬이 전방 방어 효과를 갖게 됩니다.	icon_skills.rampage_tex
-10153040	ASpd	0	0	abs	0	0	-10	거인의 힘 (방어)			몸을 거대화 하여 내면의 엄청난 힘을 끌어냅니다. 공격 속도가 10 감소하는 대신 힘 30, 치명타 유발 30이 증가하고, 추가 적대치 10%를 획득하고, 모든 스킬 재사용 시간이 30% 감소하며 모든 스킬이 전방 방어 효과를 갖게 됩니다.	icon_skills.rampage_tex
-10153040	CDR	0	0	swch	0	0	0.7	거인의 힘 (방어)			몸을 거대화 하여 내면의 엄청난 힘을 끌어냅니다. 공격 속도가 10 감소하는 대신 힘 30, 치명타 유발 30이 증가하고, 추가 적대치 10%를 획득하고, 모든 스킬 재사용 시간이 30% 감소하며 모든 스킬이 전방 방어 효과를 갖게 됩니다.	icon_skills.rampage_tex
-10153040	Block	0	0	swch	0	0	0	거인의 힘 (방어)			몸을 거대화 하여 내면의 엄청난 힘을 끌어냅니다. 공격 속도가 10 감소하는 대신 힘 30, 치명타 유발 30이 증가하고, 추가 적대치 10%를 획득하고, 모든 스킬 재사용 시간이 30% 감소하며 모든 스킬이 전방 방어 효과를 갖게 됩니다.	icon_skills.rampage_tex
-10153040	SuperArmor	0	0	swch	0	0	0	거인의 힘 (방어)			몸을 거대화 하여 내면의 엄청난 힘을 끌어냅니다. 공격 속도가 10 감소하는 대신 힘 30, 치명타 유발 30이 증가하고, 추가 적대치 10%를 획득하고, 모든 스킬 재사용 시간이 30% 감소하며 모든 스킬이 전방 방어 효과를 갖게 됩니다.	icon_skills.rampage_tex
+10153040	Power	0	0	abs	0	0	45	거인의 힘 (방어)			몸을 거대화 하여 내면의 엄청난 힘을 끌어냅니다. 공격 속도가 10 감소하는 대신 힘 100%6, 치명타 유발 100%7이 증가하고, 추가 적대치 10%를 획득하고, 모든 스킬 재사용 시간이 30% 감소하며 모든 스킬이 전방 방어 효과를 갖게 됩니다.	icon_skills.rampage_tex
+10153040	Crit	0	0	abs	0	0	50	거인의 힘 (방어)			몸을 거대화 하여 내면의 엄청난 힘을 끌어냅니다. 공격 속도가 10 감소하는 대신 힘 100%6, 치명타 유발 100%7이 증가하고, 추가 적대치 10%를 획득하고, 모든 스킬 재사용 시간이 30% 감소하며 모든 스킬이 전방 방어 효과를 갖게 됩니다.	icon_skills.rampage_tex
+10153040	ASpd	0	0	abs	0	0	-10	거인의 힘 (방어)			몸을 거대화 하여 내면의 엄청난 힘을 끌어냅니다. 공격 속도가 10 감소하는 대신 힘 100%6, 치명타 유발 100%7이 증가하고, 추가 적대치 10%를 획득하고, 모든 스킬 재사용 시간이 30% 감소하며 모든 스킬이 전방 방어 효과를 갖게 됩니다.	icon_skills.rampage_tex
+10153040	CDR	0	0	swch	0	0	0.7	거인의 힘 (방어)			몸을 거대화 하여 내면의 엄청난 힘을 끌어냅니다. 공격 속도가 10 감소하는 대신 힘 100%6, 치명타 유발 100%7이 증가하고, 추가 적대치 10%를 획득하고, 모든 스킬 재사용 시간이 30% 감소하며 모든 스킬이 전방 방어 효과를 갖게 됩니다.	icon_skills.rampage_tex
+10153040	Block	0	0	swch	0	0	0	거인의 힘 (방어)			몸을 거대화 하여 내면의 엄청난 힘을 끌어냅니다. 공격 속도가 10 감소하는 대신 힘 100%6, 치명타 유발 100%7이 증가하고, 추가 적대치 10%를 획득하고, 모든 스킬 재사용 시간이 30% 감소하며 모든 스킬이 전방 방어 효과를 갖게 됩니다.	icon_skills.rampage_tex
+10153040	SuperArmor	0	0	swch	0	0	0	거인의 힘 (방어)			몸을 거대화 하여 내면의 엄청난 힘을 끌어냅니다. 공격 속도가 10 감소하는 대신 힘 100%6, 치명타 유발 100%7이 증가하고, 추가 적대치 10%를 획득하고, 모든 스킬 재사용 시간이 30% 감소하며 모든 스킬이 전방 방어 효과를 갖게 됩니다.	icon_skills.rampage_tex
 10153071	Power	0	0	abs	300000	0	0	맹렬한 의지 [패시브] 대기시간			맹렬한 의지가 차오르고 있습니다. 맹렬한 의지가 모두 차오르기 전까지 기사회생 효과가 발동되지 않습니다.	icon_skills.ferociouswill_tex
 10153140	Endurance	0	0	perc	20000	0	0.99	폭연타			급소를 가격 당하여 맷집이 1%씩 감소됩니다. 이 효과는 최대 8번까지 중첩됩니다.	icon_skills.rapidattack_tex
 10154030	MPChange	0	-20	abs	0	1	-20	검기술			검기가 발현되어 공격력이 증가합니다.	icon_skills.c12_atkupbuff
 10154030	AtkPotion	0	0	swch	0	0	1.05	검기술			검기가 발현되어 공격력이 증가합니다.	icon_skills.c12_atkupbuff
 10154032	AtkPotion	0	0	swch	60000	0	1.01	강력한 검기			강력한 검기가 발현되어 공격력이 더 증가합니다.	icon_skills.c12_atkupbuff
 10154090	Endurance	0	0	perc	60000	0	1	변신술 I			상대의 모습으로 변신한 상태입니다.	icon_skills.c12_transform
-10155030	AtkPotion	0	0	perc	0	0	1.2	보름달의 향연			달빛의 기운을 받아 주는 피해량이 중첩 당 20%씩 증가합니다.	icon_skills.fullmoon_tex
-10155031	AtkPotion	0	0	perc	0	0	1.3	피 보름달의 향연			달빛의 기운을 받아 주는 피해량이 중첩 당 30%씩 증가합니다.	icon_skills.fullmoon_red_tex
-10155036	AtkPotion	0	0	perc	0	0	1.2	만월			달빛의 기운을 받아 만월 두 번째 공격의 피해량이 중첩 당 20%, 치명타 확률이 0.2배씩 증가합니다.	icon_skills.fullmoon_tex
-10155036	CritChance	0	0	perc	0	0	1.2	만월			달빛의 기운을 받아 만월 두 번째 공격의 피해량이 중첩 당 20%, 치명타 확률이 0.2배씩 증가합니다.	icon_skills.fullmoon_tex
-10155037	AtkPotion	0	0	perc	0	0	1.3	만월			달빛의 기운을 받아 만월 두 번째 공격의 피해량이 중첩 당 30%, 치명타 확률이 0.3배씩 증가합니다.	icon_skills.fullmoon_tex
-10155037	CritChance	0	0	perc	0	0	1.3	만월			달빛의 기운을 받아 만월 두 번째 공격의 피해량이 중첩 당 30%, 치명타 확률이 0.3배씩 증가합니다.	icon_skills.fullmoon_tex
+10155030	AtkPotion	0	0	perc	0	0	1.1	보름달의 향연			달빛의 기운을 받아 주는 피해량이 10% 증가합니다.	icon_skills.fullmoon_tex
+10155031	AtkPotion	0	0	perc	0	0	1.15	피 보름달의 향연			달빛의 기운을 받아 주는 피해량이 15% 증가합니다.	icon_skills.fullmoon_red_tex
+10155036	AtkPotion	0	0	perc	0	0	1.1	만월			달빛의 기운을 받아 만월 두 번째 공격의 피해량이 중첩 당 10%, 치명타 확률이 0.2배씩 증가합니다.	icon_skills.fullmoon_tex
+10155036	CritChance	0	0	perc	0	0	1.2	만월			달빛의 기운을 받아 만월 두 번째 공격의 피해량이 중첩 당 10%, 치명타 확률이 0.2배씩 증가합니다.	icon_skills.fullmoon_tex
+10155037	AtkPotion	0	0	perc	0	0	1.1	만월			달빛의 기운을 받아 만월 두 번째 공격의 피해량이 중첩 당 10%, 치명타 확률이 0.3배씩 증가합니다.	icon_skills.fullmoon_tex
+10155037	CritChance	0	0	perc	0	0	1.3	만월			달빛의 기운을 받아 만월 두 번째 공격의 피해량이 중첩 당 10%, 치명타 확률이 0.3배씩 증가합니다.	icon_skills.fullmoon_tex
 10155130	Power	0	0	abs	25000	0	50	적월			피로 적신 달빛의 기운을 받습니다. 힘 50, 공격 속도 20, 공격 범위 20%가 증가합니다. 효과를 받는 즉시 [회피]와 [기상 공격]을 제외한 재사용 시간이 60초 미만인 스킬들의 재사용 시간이 모두 초기화되고, 효과가 지속되는 동안 해당 스킬들의 재사용 시간이 60%씩 감소됩니다.	icon_skills.redmoon_tex
 10155130	Endurance	0	0	swch	1500	0	0	적월			피로 적신 달빛의 기운을 받습니다. 힘 50, 공격 속도 20, 공격 범위 20%가 증가합니다. 효과를 받는 즉시 [회피]와 [기상 공격]을 제외한 재사용 시간이 60초 미만인 스킬들의 재사용 시간이 모두 초기화되고, 효과가 지속되는 동안 해당 스킬들의 재사용 시간이 60%씩 감소됩니다.	icon_skills.redmoon_tex
 10155130	ASpd	0	0	abs	25000	0	20	적월			피로 적신 달빛의 기운을 받습니다. 힘 50, 공격 속도 20, 공격 범위 20%가 증가합니다. 효과를 받는 즉시 [회피]와 [기상 공격]을 제외한 재사용 시간이 60초 미만인 스킬들의 재사용 시간이 모두 초기화되고, 효과가 지속되는 동안 해당 스킬들의 재사용 시간이 60%씩 감소됩니다.	icon_skills.redmoon_tex
@@ -3542,16 +3568,14 @@
 98000091	HPChange	-0.06	0	perc	10000	3	-0.06	출혈			새끼새의 강력한 일격에 의해 출혈이 발생해 이동 속도가 50% 감소되고, 3 마다 전체 HP 대비 6%에 달하는 HP가 지속적으로 감소됩니다.	icon_status.minuscriticalresist_tex
 98000092	HPChange	0.0033	0	perc	12000	3	0.0033	새끼의 축복			3s마다 전체 HP 대비 0.33%에 달하는 HP가 지속적으로 회복됩니다. 이 효과는 최대 3번까지 중첩됩니다.	icon_status.aura_of_regeneration_hp_tex
 98000095	HPChange	50000	0	abs	1000	1	50000	사제의 손길			체력이 3만 회복됩니다.	icon_items.potion5_tex
-98000100	Power	0	0	abs	10000000	0	25	사제 버프 물약	96000	테스트용 물약_사제 버프	사제 버프 - 힘의 축복II(힘25), 보호의 축복II(맷집11), 재생의 축복V(체력 지속 회복), 인내의 축복I(모든 이상상태 저항5), 신성한번개(힘40, 공속8), 맷집 감소(10%)의 효과를 얻었습니다.	icon_skills.attackup_tex
-98000100	Endurance	0	0	abs	10000000	0	11	사제 버프 물약	96000	테스트용 물약_사제 버프	사제 버프 - 힘의 축복II(힘25), 보호의 축복II(맷집11), 재생의 축복V(체력 지속 회복), 인내의 축복I(모든 이상상태 저항5), 신성한번개(힘40, 공속8), 맷집 감소(10%)의 효과를 얻었습니다.	icon_skills.attackup_tex
-98000100	ASpd	0	0	abs	10000000	0	8	사제 버프 물약	96000	테스트용 물약_사제 버프	사제 버프 - 힘의 축복II(힘25), 보호의 축복II(맷집11), 재생의 축복V(체력 지속 회복), 인내의 축복I(모든 이상상태 저항5), 신성한번개(힘40, 공속8), 맷집 감소(10%)의 효과를 얻었습니다.	icon_skills.attackup_tex
-98000100	HPChange	773	0	abs	10000000	2	773	사제 버프 물약	96000	테스트용 물약_사제 버프	사제 버프 - 힘의 축복II(힘25), 보호의 축복II(맷집11), 재생의 축복V(체력 지속 회복), 인내의 축복I(모든 이상상태 저항5), 신성한번개(힘40, 공속8), 맷집 감소(10%)의 효과를 얻었습니다.	icon_skills.attackup_tex
-98000101	Power	0	0	abs	10000000	0	25	정령사 버프 물약	96001	테스트용 물약_정령사 버프	정령사 버프 - 분노의 결계 (치명타유발 2배), 정신의 결계 (1초마다 MP 20 회복), 수호의정령 문장효과(맷집 10% 상승), 맷집 감소(10%) 효과를 얻었습니다.	icon_status.plusecritical_tex
-98000101	Endurance	0	0	perc	10000000	0	1.1	정령사 버프 물약	96001	테스트용 물약_정령사 버프	정령사 버프 - 분노의 결계 (치명타유발 2배), 정신의 결계 (1초마다 MP 20 회복), 수호의정령 문장효과(맷집 10% 상승), 맷집 감소(10%) 효과를 얻었습니다.	icon_status.plusecritical_tex
-98000101	Crit	0	0	perc	10000000	0	2	정령사 버프 물약	96001	테스트용 물약_정령사 버프	정령사 버프 - 분노의 결계 (치명타유발 2배), 정신의 결계 (1초마다 MP 20 회복), 수호의정령 문장효과(맷집 10% 상승), 맷집 감소(10%) 효과를 얻었습니다.	icon_status.plusecritical_tex
-98000101	MPChange	0	20	abs	10000000	1	20	정령사 버프 물약	96001	테스트용 물약_정령사 버프	정령사 버프 - 분노의 결계 (치명타유발 2배), 정신의 결계 (1초마다 MP 20 회복), 수호의정령 문장효과(맷집 10% 상승), 맷집 감소(10%) 효과를 얻었습니다.	icon_status.plusecritical_tex
-98000102	MaxHP	0	0	perc	99999999	0	1.05	일일 플레이 가이드 버프 물약			힘 6 증가, 최대 HP 5% 증가, 평화상태 이동속도 20증가합니다.	
-98000102	Power	0	0	abs	99999999	0	6	일일 플레이 가이드 버프 물약			힘 6 증가, 최대 HP 5% 증가, 평화상태 이동속도 20증가합니다.	
+98000100	Power	0	0	abs	10000000	0	25	사제 버프 물약	96000	테스트용 물약_사제 버프	사제 버프 - 아룬의 축복III, 샤라의 축복V, 신성의 번개가 적용됩니다. 힘25, 맷집11, 체력 지속 회복, 모든 이상상태 저항5, 힘40, 공속8 효과를 얻었습니다.	icon_skills.attackup_tex
+98000100	Endurance	0	0	abs	10000000	0	11	사제 버프 물약	96000	테스트용 물약_사제 버프	사제 버프 - 아룬의 축복III, 샤라의 축복V, 신성의 번개가 적용됩니다. 힘25, 맷집11, 체력 지속 회복, 모든 이상상태 저항5, 힘40, 공속8 효과를 얻었습니다.	icon_skills.attackup_tex
+98000101	Power	0	0	abs	0	0	40	정령사 버프 물약	96001	테스트용 물약_정령사 버프	정령사 버프 - 분노의 결계II, 광기의 가호III, 안개의 결계IV, 수호의 정령 문장 맷집 증가가 적용됩니다. 치명타유발 2.2배, 힘40, 공속6, 치명타 저항40%, 맷집 10% 효과를 얻었습니다. 광기의 가호는 사제 버프 중 신성의 번개에 하위 중복됩니다.	icon_status.plusecritical_tex
+98000101	Endurance	0	0	perc	10000000	0	1.1	정령사 버프 물약	96001	테스트용 물약_정령사 버프	정령사 버프 - 분노의 결계II, 광기의 가호III, 안개의 결계IV, 수호의 정령 문장 맷집 증가가 적용됩니다. 치명타유발 2.2배, 힘40, 공속6, 치명타 저항40%, 맷집 10% 효과를 얻었습니다. 광기의 가호는 사제 버프 중 신성의 번개에 하위 중복됩니다.	icon_status.plusecritical_tex
+98000101	Crit	0	0	perc	10000000	0	2.2	정령사 버프 물약	96001	테스트용 물약_정령사 버프	정령사 버프 - 분노의 결계II, 광기의 가호III, 안개의 결계IV, 수호의 정령 문장 맷집 증가가 적용됩니다. 치명타유발 2.2배, 힘40, 공속6, 치명타 저항40%, 맷집 10% 효과를 얻었습니다. 광기의 가호는 사제 버프 중 신성의 번개에 하위 중복됩니다.	icon_status.plusecritical_tex
+98000101	CritResist	0	0	perc	0	0	1.4	정령사 버프 물약	96001	테스트용 물약_정령사 버프	정령사 버프 - 분노의 결계II, 광기의 가호III, 안개의 결계IV, 수호의 정령 문장 맷집 증가가 적용됩니다. 치명타유발 2.2배, 힘40, 공속6, 치명타 저항40%, 맷집 10% 효과를 얻었습니다. 광기의 가호는 사제 버프 중 신성의 번개에 하위 중복됩니다.	icon_status.plusecritical_tex
+98000102	MaxHP	0	0	perc	10000000	0	1.05	일일 플레이 가이드 버프 물약			힘 6 증가, 최대 HP 5% 증가, 평화상태 이동속도 20증가합니다.	
+98000102	Power	0	0	abs	10000000	0	6	일일 플레이 가이드 버프 물약			힘 6 증가, 최대 HP 5% 증가, 평화상태 이동속도 20증가합니다.	
 98000103	ASpd	0	0	perc	0	0	1.04	수호의 연계 III			모든 공격 스킬에 의한 적대치가 20% 향상되고, 공격 속도가 4% 향상됩니다. 추가로 받는 피해가 10% 감소되며, 다운 / 경직 발생 확률도 30% 감소됩니다.	
 98000103	DefPotion	0	0	perc	0	0	0.9	수호의 연계 III			모든 공격 스킬에 의한 적대치가 20% 향상되고, 공격 속도가 4% 향상됩니다. 추가로 받는 피해가 10% 감소되며, 다운 / 경직 발생 확률도 30% 감소됩니다.	
 98000104	ASpd	0	0	perc	0	0	1.04	공격의 연계 III			스킬 데미지가 10% 향상되고, 받는 피해가 10% 감소됩니다. 추가로 공격 속도도 4% 향상됩니다.	
@@ -3562,6 +3586,12 @@
 98000105	AtkPotion	0	0	perc	0	0	1.1	회복의 연계 III			스킬 데미지가 10% 향상되고, 받는 피해가 10% 감소됩니다. 추가로 공격 속도도 4% 향상됩니다.	
 98000106	Endurance	0	0	perc	10000000	0	0.9	맷집 감소 [약화의 문장]			맷집이 10% 감소됩니다.	icon_crest.crestactivedefencedown_tex
 98000106	CritResist	0	0	abs	10000000	0	-12	맷집 감소 [약화의 문장]			맷집이 10% 감소됩니다.	icon_crest.crestactivedefencedown_tex
+98000107	Power	0	0	abs	10000000	0	40	신성의 번개 IV			힘이 40 증가하고, 공격 속도도 8 향상됩니다.	icon_skills.divinelightning_tex
+98000107	ASpd	0	0	abs	10000000	0	8	신성의 번개 IV			힘이 40 증가하고, 공격 속도도 8 향상됩니다.	icon_skills.divinelightning_tex
+98000108	Endurance	0	0	perc	10000000	0	1.1	맷집 증가 [협동의 문장]			맷집이 10% 향상됩니다.	icon_crest.crestactivedefenceup_tex
+98000109	Power	0	0	abs	2400000	0	25	아룬의 축복 III			아룬의 축복을 받아 평화 상태에서의 이동 속도가 10 향상되고 힘이 25 향상됩니다.	icon_skills.attackup_tex
+98000110	Endurance	0	0	abs	10000000	0	11	샤라의 축복 V			샤라의 축복을 받아  2초마다 HP가 지속적으로 회복되며 맷집이 11, 모든 상태이상 저항이 5 증가합니다.	icon_skills.agilitybless_tex
+98000110	HPChange	73	0	abs	10000000	2	73	샤라의 축복 V			샤라의 축복을 받아  2초마다 HP가 지속적으로 회복되며 맷집이 11, 모든 상태이상 저항이 5 증가합니다.	icon_skills.agilitybless_tex
 98850002	DropUp	0	0	perc	7200000	0	1.2	풍요의 축복 I			풍요의 마석을 수호하여 보상율이 25% 증가합니다.	icon_items.tresurebox3_tex
 98850003	DropUp	0	0	perc	7200000	0	1.4	풍요의 축복 II			풍요의 마석을 수호하여 보상율이 50% 증가합니다.	icon_items.tresurebox3_tex
 98850004	DropUp	0	0	perc	7200000	0	1.6	풍요의 축복 III			풍요의 마석을 수호하여 보상율이 75% 증가합니다.	icon_items.tresurebox3_tex

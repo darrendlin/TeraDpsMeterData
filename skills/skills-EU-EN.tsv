@@ -510,22 +510,22 @@
 230420	Common	Common	Archer	Stunning Trap Arrow IV	False		icon_skills.paralysistraparrow_tex
 230500	Common	Common	Archer	Stunning Trap Arrow V	False		icon_skills.paralysistraparrow_tex
 230520	Common	Common	Archer	Stunning Trap Arrow V	False		icon_skills.paralysistraparrow_tex
-240100	Common	Common	Archer	Slow Trap Arrow I	False		icon_skills.webtraparrow_tex
-240101	Common	Common	Archer	Slow Trap Arrow I	False		icon_skills.webtraparrow_tex
-240103	Common	Common	Archer	Slow Trap Arrow I	False		icon_skills.webtraparrow_tex
-240120	Common	Common	Archer	Slow Trap Arrow I	False	forward	icon_skills.webtraparrow_tex
-240121	Common	Common	Archer	Slow Trap Arrow I	False	Boom	icon_skills.webtraparrow_tex
-240200	Common	Common	Archer	Slow Trap Arrow II	False		icon_skills.webtraparrow_tex
-240201	Common	Common	Archer	Slow Trap Arrow II	False		icon_skills.webtraparrow_tex
-240203	Common	Common	Archer	Slow Trap Arrow II	False		icon_skills.webtraparrow_tex
-240220	Common	Common	Archer	Slow Trap Arrow II	False	forward	icon_skills.webtraparrow_tex
-240221	Common	Common	Archer	Slow Trap Arrow II	False	Boom	icon_skills.webtraparrow_tex
-240300	Common	Common	Archer	Slow Trap Arrow III	False		icon_skills.webtraparrow_tex
-240320	Common	Common	Archer	Slow Trap Arrow III	False		icon_skills.webtraparrow_tex
-240400	Common	Common	Archer	Slow Trap Arrow IV	False		icon_skills.webtraparrow_tex
-240420	Common	Common	Archer	Slow Trap Arrow IV	False		icon_skills.webtraparrow_tex
-240500	Common	Common	Archer	Slow Trap Arrow V	False		icon_skills.webtraparrow_tex
-240520	Common	Common	Archer	Slow Trap Arrow V	False		icon_skills.webtraparrow_tex
+240100	Common	Common	Archer	Snare I	False		icon_skills.webtraparrow_tex
+240101	Common	Common	Archer	Snare I	False		icon_skills.webtraparrow_tex
+240103	Common	Common	Archer	Snare I	False		icon_skills.webtraparrow_tex
+240120	Common	Common	Archer	Snare I	False	forward	icon_skills.webtraparrow_tex
+240121	Common	Common	Archer	Snare I	False	Boom	icon_skills.webtraparrow_tex
+240200	Common	Common	Archer	Snare II	False		icon_skills.webtraparrow_tex
+240201	Common	Common	Archer	Snare II	False		icon_skills.webtraparrow_tex
+240203	Common	Common	Archer	Snare II	False		icon_skills.webtraparrow_tex
+240220	Common	Common	Archer	Snare II	False	forward	icon_skills.webtraparrow_tex
+240221	Common	Common	Archer	Snare II	False	Boom	icon_skills.webtraparrow_tex
+240300	Common	Common	Archer	Snare III	False		icon_skills.webtraparrow_tex
+240320	Common	Common	Archer	Snare III	False		icon_skills.webtraparrow_tex
+240400	Common	Common	Archer	Snare IV	False		icon_skills.webtraparrow_tex
+240420	Common	Common	Archer	Snare IV	False		icon_skills.webtraparrow_tex
+240500	Common	Common	Archer	Snare V	False		icon_skills.webtraparrow_tex
+240520	Common	Common	Archer	Snare V	False		icon_skills.webtraparrow_tex
 250100	Common	Common	Archer	Incendiary Trap Arrow I	False		icon_skills.explosiontraparrow_tex
 250120	Common	Common	Archer	Incendiary Trap Arrow I	False		icon_skills.explosiontraparrow_tex
 250200	Common	Common	Archer	Incendiary Trap Arrow II	False		icon_skills.explosiontraparrow_tex
@@ -767,10 +767,6 @@
 80600	Common	Common	Berserker	Fiery Rage VI	False		icon_skills.berserk_tex
 80630	Common	Common	Berserker	Fiery Rage VI	False	Fury	icon_skills.berserk_tex
 80700	Common	Common	Berserker	Fiery Rage VII	False		icon_skills.berserk_tex
-90100	Common	Common	Berserker	Triumphant Shout I	False		icon_skills.shout_tex
-90200	Common	Common	Berserker	Triumphant Shout II	False		icon_skills.shout_tex
-90300	Common	Common	Berserker	Triumphant Shout III	False		icon_skills.shout_tex
-90400	Common	Common	Berserker	Triumphant Shout IV	False		icon_skills.shout_tex
 100100	Common	Common	Berserker	Cyclone I	False		icon_skills.whirlwind_tex
 100110	Common	Common	Berserker	Cyclone I	False	hit 1	icon_skills.whirlwind_tex
 100111	Common	Common	Berserker	Cyclone I	False	hit 2	icon_skills.whirlwind_tex
@@ -968,8 +964,6 @@
 160500	Common	Common	Berserker	Fearsome Shout V	False		icon_skills.piercingshout_tex
 160600	Common	Common	Berserker	Fearsome Shout VI	False		icon_skills.piercingshout_tex
 160700	Common	Common	Berserker	Fearsome Shout VII	False		icon_skills.piercingshout_tex
-170100	Common	Common	Berserker	Flurry of Blows I			icon_skills.gatheringrage_tex
-170200	Common	Common	Berserker	Flurry of Blows II			icon_skills.gatheringrage_tex
 180100	Common	Common	Berserker	Lethal Strike I	False		icon_skills.soulstrike_tex
 180110	Common	Common	Berserker	Lethal Strike I	False	hit 1	icon_skills.soulstrike_tex
 180111	Common	Common	Berserker	Lethal Strike I	False	hit 2	icon_skills.soulstrike_tex
@@ -2230,42 +2224,49 @@
 180120	Common	Common	Gunner	HB-1	False		icon_skills.summondispenser_tex
 180121	Common	Common	Gunner	HB-1	False		icon_skills.summondispenser_tex
 180122	Common	Common	Gunner	HB-1	False		icon_skills.summondispenser_tex
+180131	Common	Common	Gunner	HB-1	False		icon_skills.summondispenser_tex
 180200	Common	Common	Gunner	HB-2	False		icon_skills.summondispenser_tex
 180201	Common	Common	Gunner	HB-2	False		icon_skills.summondispenser_tex
 180202	Common	Common	Gunner	HB-2	False		icon_skills.summondispenser_tex
 180220	Common	Common	Gunner	HB-2	False		icon_skills.summondispenser_tex
 180221	Common	Common	Gunner	HB-2	False		icon_skills.summondispenser_tex
 180222	Common	Common	Gunner	HB-2	False		icon_skills.summondispenser_tex
+180231	Common	Common	Gunner	HB-2	False		icon_skills.summondispenser_tex
 180300	Common	Common	Gunner	HB-3	False		icon_skills.summondispenser_tex
 180301	Common	Common	Gunner	HB-3	False		icon_skills.summondispenser_tex
 180302	Common	Common	Gunner	HB-3	False		icon_skills.summondispenser_tex
 180320	Common	Common	Gunner	HB-3	False		icon_skills.summondispenser_tex
 180321	Common	Common	Gunner	HB-3	False		icon_skills.summondispenser_tex
 180322	Common	Common	Gunner	HB-3	False		icon_skills.summondispenser_tex
+180331	Common	Common	Gunner	HB-3	False		icon_skills.summondispenser_tex
 180400	Common	Common	Gunner	HB-4	False		icon_skills.summondispenser_tex
 180401	Common	Common	Gunner	HB-4	False		icon_skills.summondispenser_tex
 180402	Common	Common	Gunner	HB-4	False		icon_skills.summondispenser_tex
 180420	Common	Common	Gunner	HB-4	False		icon_skills.summondispenser_tex
 180421	Common	Common	Gunner	HB-4	False		icon_skills.summondispenser_tex
 180422	Common	Common	Gunner	HB-4	False		icon_skills.summondispenser_tex
+180431	Common	Common	Gunner	HB-4	False		icon_skills.summondispenser_tex
 180500	Common	Common	Gunner	HB-5	False		icon_skills.summondispenser_tex
 180501	Common	Common	Gunner	HB-5	False		icon_skills.summondispenser_tex
 180502	Common	Common	Gunner	HB-5	False		icon_skills.summondispenser_tex
 180520	Common	Common	Gunner	HB-5	False		icon_skills.summondispenser_tex
 180521	Common	Common	Gunner	HB-5	False		icon_skills.summondispenser_tex
 180522	Common	Common	Gunner	HB-5	False		icon_skills.summondispenser_tex
+180531	Common	Common	Gunner	HB-5	False		icon_skills.summondispenser_tex
 180600	Common	Common	Gunner	HB-6	False		icon_skills.summondispenser_tex
 180601	Common	Common	Gunner	HB-6	False		icon_skills.summondispenser_tex
 180602	Common	Common	Gunner	HB-6	False		icon_skills.summondispenser_tex
 180620	Common	Common	Gunner	HB-6	False		icon_skills.summondispenser_tex
 180621	Common	Common	Gunner	HB-6	False		icon_skills.summondispenser_tex
 180622	Common	Common	Gunner	HB-6	False		icon_skills.summondispenser_tex
+180631	Common	Common	Gunner	HB-6	False		icon_skills.summondispenser_tex
 180700	Common	Common	Gunner	HB-7	False		icon_skills.summondispenser_tex
 180701	Common	Common	Gunner	HB-7	False		icon_skills.summondispenser_tex
 180702	Common	Common	Gunner	HB-7	False		icon_skills.summondispenser_tex
 180720	Common	Common	Gunner	HB-7	False		icon_skills.summondispenser_tex
 180721	Common	Common	Gunner	HB-7	False		icon_skills.summondispenser_tex
 180722	Common	Common	Gunner	HB-7	False		icon_skills.summondispenser_tex
+180731	Common	Common	Gunner	HB-7	False		icon_skills.summondispenser_tex
 190100	Common	Common	Gunner	ST-1	False		icon_skills.summonsentrytower_tex
 190101	Common	Common	Gunner	ST-1	False		icon_skills.summonsentrytower_tex
 190102	Common	Common	Gunner	ST-1	False		icon_skills.summonsentrytower_tex
@@ -4415,19 +4416,33 @@
 11502	Common	Common	Slayer	Combo Attack XV	False	hit 3	icon_skills.comboattack_tex
 11503	Common	Common	Slayer	Combo Attack XV	False	hit 4	icon_skills.comboattack_tex
 20100	Common	Common	Slayer	Knockdown Strike I	False		icon_skills.handyslash_tex
+20130	Common	Common	Slayer	Knockdown Strike I	True		icon_skills.handyslash_tex
 20200	Common	Common	Slayer	Knockdown Strike II	False		icon_skills.handyslash_tex
+20230	Common	Common	Slayer	Knockdown Strike II	True		icon_skills.handyslash_tex
 20300	Common	Common	Slayer	Knockdown Strike III	False		icon_skills.handyslash_tex
+20330	Common	Common	Slayer	Knockdown Strike III	True		icon_skills.handyslash_tex
 20400	Common	Common	Slayer	Knockdown Strike IV	False		icon_skills.handyslash_tex
+20430	Common	Common	Slayer	Knockdown Strike IV	True		icon_skills.handyslash_tex
 20500	Common	Common	Slayer	Knockdown Strike V	False		icon_skills.handyslash_tex
+20530	Common	Common	Slayer	Knockdown Strike V	True		icon_skills.handyslash_tex
 20600	Common	Common	Slayer	Knockdown Strike VI	False		icon_skills.handyslash_tex
+20630	Common	Common	Slayer	Knockdown Strike VI	True		icon_skills.handyslash_tex
 20700	Common	Common	Slayer	Knockdown Strike VII	False		icon_skills.handyslash_tex
+20730	Common	Common	Slayer	Knockdown Strike VII	True		icon_skills.handyslash_tex
 20800	Common	Common	Slayer	Knockdown Strike VIII	False		icon_skills.handyslash_tex
+20830	Common	Common	Slayer	Knockdown Strike VIII	True		icon_skills.handyslash_tex
 20900	Common	Common	Slayer	Knockdown Strike IX	False		icon_skills.handyslash_tex
+20930	Common	Common	Slayer	Knockdown Strike IX	True		icon_skills.handyslash_tex
 21000	Common	Common	Slayer	Knockdown Strike X	False		icon_skills.handyslash_tex
+21030	Common	Common	Slayer	Knockdown Strike X	True		icon_skills.handyslash_tex
 21100	Common	Common	Slayer	Knockdown Strike XI	False		icon_skills.handyslash_tex
+21130	Common	Common	Slayer	Knockdown Strike XI	True		icon_skills.handyslash_tex
 21200	Common	Common	Slayer	Knockdown Strike XII	False		icon_skills.handyslash_tex
+21230	Common	Common	Slayer	Knockdown Strike XII	True		icon_skills.handyslash_tex
 21300	Common	Common	Slayer	Knockdown Strike XIII	False		icon_skills.handyslash_tex
+21330	Common	Common	Slayer	Knockdown Strike XIII	True		icon_skills.handyslash_tex
 21400	Common	Common	Slayer	Knockdown Strike XIV	False		icon_skills.handyslash_tex
+21430	Common	Common	Slayer	Knockdown Strike XIV	True		icon_skills.handyslash_tex
 30100	Common	Common	Slayer	Whirlwind I	False		icon_skills.sworddance_tex
 30200	Common	Common	Slayer	Whirlwind II	False		icon_skills.sworddance_tex
 30300	Common	Common	Slayer	Whirlwind III	False		icon_skills.sworddance_tex
@@ -4458,10 +4473,6 @@
 60400	Common	Common	Slayer	Backstab IV	False		icon_skills.turnaroundattack_tex
 60500	Common	Common	Slayer	Backstab V	False		icon_skills.turnaroundattack_tex
 60600	Common	Common	Slayer	Backstab VI	False		icon_skills.turnaroundattack_tex
-70100	Common	Common	Slayer	Triumphant Shout I	False		icon_skills.shout_tex
-70200	Common	Common	Slayer	Triumphant Shout II	False		icon_skills.shout_tex
-70300	Common	Common	Slayer	Triumphant Shout III	False		icon_skills.shout_tex
-70400	Common	Common	Slayer	Triumphant Shout IV	False		icon_skills.shout_tex
 80100	Common	Common	Slayer	Overhand Strike I	False		icon_skills.cuttingslash_tex
 80130	Common	Common	Slayer	Overhand Strike I	True		icon_skills.cuttingslash_tex
 80200	Common	Common	Slayer	Overhand Strike II	False		icon_skills.cuttingslash_tex
@@ -5334,10 +5345,7 @@
 131000	Common	Common	Warrior	Retaliate X	False		icon_skills.risingattack_tex
 131100	Common	Common	Warrior	Retaliate XI	False		icon_skills.risingattack_tex
 131200	Common	Common	Warrior	Retaliate XII	False		icon_skills.risingattack_tex
-140100	Common	Common	Warrior	Mangle	False	On	icon_skills.aimingankle_tex
-140150	Common	Common	Warrior	Mangle	False	Off	icon_skills.aimingankle_tex
-140200	Common	Common	Warrior	Mangle	False	On	icon_skills.aimingankle_tex
-140250	Common	Common	Warrior	Mangle	False	Off	icon_skills.aimingankle_tex
+140100	Common	Common	Warrior	Mangle			icon_skills.aimingankle_tex
 160100	Common	Common	Warrior	Charging Slash I	False		icon_skills.rushingslash_tex
 160101	Common	Common	Warrior	Charging Slash I	False		icon_skills.rushingslash_tex
 160200	Common	Common	Warrior	Charging Slash II	False		icon_skills.rushingslash_tex
@@ -5541,6 +5549,12 @@
 331200	Common	Common	Warrior	Smoke Flanker XII	False		icon_skills.shadowchange_tex
 340100	Common	Common	Warrior	Binding Sword	False		icon_skills.bindingblade_tex
 350100	Common	Common	Warrior	Infuriate I	False		icon_skills.provokerage_tex
+360100	Common	Common	Warrior	Rain of Blows XI	False		icon_skills.pointattack_tex
+360130	Common	Common	Warrior	Rain of Blows XI	True		icon_skills.pointattack_tex
+370100	Common	Common	Warrior	Blade Draw VII	False		icon_skills.dualslash_tex
+370130	Common	Common	Warrior	Blade Draw VII	True		icon_skills.dualslash_tex
+380100	Common	Common	Warrior	Scythe II	False		icon_skills.raker_tex
+380130	Common	Common	Warrior	Scythe II	True		icon_skills.raker_tex
 10	Common	Common	Common	Skill Test Item			
 4999	Common	Common	Common	Self-Destruct			
 111110	Common	Common	Common	Summon: Bay Gelding 			
@@ -6496,17 +6510,17 @@
 8881002	Common	Common	Common	Battle Will			
 8881003	Common	Common	Common	Impregnable			
 9010100	Aman	Common	Common	Kaiator's Drums			icon_skills.returnofkaiator_tex
+9010100	Baraka	Common	Common	Core's Resonance			icon_skills.returnofcore_tex
 9010100	Castanic	Common	Common	Kaiator's Drums			icon_skills.returnofkaiator_tex
 9010100	Highelf	Common	Common	Core's Resonance			icon_skills.returnofcore_tex
 9010100	Human	Common	Common	Velik's Horn			icon_skills.returnofvelica_tex
 9010100	Popori	Common	Common	Velik's Horn			icon_skills.returnofvelica_tex
-9010100	Baraka	Common	Common	Core's Resonance			icon_skills.returnofcore_tex
-9020100	Aman	Common	Common	Last Aman Standing			icon_skills.expertfighter_tex
-9020100	Baraka	Common	Common	Ancient Wellspring			icon_skills.earthmeld_tex
-9020100	Castanic	Common	Common	Skirmish Running			icon_skills.markoflok_tex
-9020100	Highelf	Common	Common	Core Infusion			icon_skills.activatelink_tex
-9020100	Human	Common	Common	Deft Footwork			icon_skills.duelmastery_tex
 9020100	Popori	Common	Common	Soothing Presence			icon_skills.naturesfriend_tex
+9020100	Human	Common	Common	Deft Footwork			icon_skills.duelmastery_tex
+9020100	Highelf	Common	Common	Core Infusion			icon_skills.activatelink_tex
+9020100	Baraka	Common	Common	Ancient Wellspring			icon_skills.earthmeld_tex
+9020100	Aman	Common	Common	Last Aman Standing			icon_skills.expertfighter_tex
+9020100	Castanic	Common	Common	Skirmish Running			icon_skills.markoflok_tex
 9030100	Popori	Common	Common	Horizon Run			icon_skills.journeyman_tex
 9876543	Common	Common	Common	Vanarch Flag			
 10220004	Common	Common	Common	Oneiric Mote			
@@ -6591,6 +6605,8 @@
 12200030	Common	Common	Common	Flight: Ancient Fire Dragon			
 12200031	Common	Common	Common	Flight: Ancient Spirit Dragon			
 12200032	Common	Common	Common	Flight: Ancient Diamond Dragon			
+12200033	Common	Common	Common	(TEST) Skycycle			
+12200034	Common	Common	Common	(TEST) Jetcycle			
 12300004	Common	Common	Common	[PC Cafe] Enchanter's Blessing Scroll (5 minutes)			
 12300005	Common	Common	Common	[PC Cafe] Blessed Enchanter's Blessing Scroll (5minutes)			
 12300006	Common	Common	Common	[PC Cafe] Revered Enchanter's Blessing Scroll (5minutes)			
@@ -7862,6 +7878,15 @@
 19000069	Common	Common	Common	Smart Box: Dyeable Wild West			
 19000070	Common	Common	Common	Smart Box: Dyeable Wild West (7 Days)			
 19000071	Common	Common	Common	Smart Box: Dyeable Wild West (30 Days)			
+19000109	Common	Common	Common	Smart Box: Metallic Cocktail Dress			
+19000110	Common	Common	Common	Smart Box: Metallic Cocktail Dress (7 Days)			
+19000111	Common	Common	Common	Smart Box: Metallic Cocktail Dress (30 Days)			
+19000112	Common	Common	Common	Smart Box: Diaphanous Cocktail Dress			
+19000113	Common	Common	Common	Smart Box: Diaphanous Cocktail Dress (7 Days)			
+19000114	Common	Common	Common	Smart Box: Diaphanous Cocktail Dress (30 Days)			
+19000115	Common	Common	Common	Smart Box: Dyeable Luxury Dress			
+19000116	Common	Common	Common	Smart Box: Dyeable Luxury Dress (7 Days)			
+19000117	Common	Common	Common	Smart Box: Dyeable Luxury Dress (30 Days)			
 19000145	Common	Common	Common	Smart Box: Shearling Jacket			
 19000146	Common	Common	Common	Smart Box: Shearling Jacket (7 Days)			
 19000147	Common	Common	Common	Smart Box: Shearling Jacket (30 Days)			
@@ -7872,6 +7897,44 @@
 19000152	Common	Common	Common	Smart Box: Santa Suit			
 19000153	Common	Common	Common	Smart Box: Snowsuit			
 19000154	Common	Common	Common	Smart Box: Purple Spectral Weapon Skin			
+19000159	Common	Common	Common	Smart Box: Raging Fires Armor (30 Days)			
+19000160	Common	Common	Common	Smart Box: Raging Fires Armor (7 Days)			
+19000161	Common	Common	Common	Smart Box: Raging Fires Armor			
+19000162	Common	Common	Common	Smart Box: Goddess of War Armor (30 Days)			
+19000163	Common	Common	Common	Smart Box: Goddess of War Armor (7 Days)			
+19000164	Common	Common	Common	Smart Box: Goddess of War Armor			
+19000165	Common	Common	Common	Smart Box: Argon Hunter's Armor (30 Days)			
+19000166	Common	Common	Common	Smart Box: Argon Hunter's Armor (7 Days)			
+19000167	Common	Common	Common	Smart Box: Argon Hunter's Armor			
+19000168	Common	Common	Common	Smart Box: Kaia's Weapon Skin (30 Days)			
+19000169	Common	Common	Common	Smart Box: Kaia's Weapon Skin (7 Days)			
+19000170	Common	Common	Common	Smart Box: Kaia's Weapon Skin			
+19000171	Common	Common	Common	Smart Box: Manaya's Weapon Skin (30 Days)			
+19000172	Common	Common	Common	Smart Box: Manaya's Weapon Skin (7 Days)			
+19000173	Common	Common	Common	Smart Box: Manaya's Weapon Skin			
+19000174	Common	Common	Common	Smart Box: Darkan's Weapon Skin (30 Days)			
+19000175	Common	Common	Common	Smart Box: Darkan's Weapon Skin (7 Days)			
+19000176	Common	Common	Common	Smart Box: Darkan's Weapon Skin			
+19000218	Common	Common	Common	Dummy Smart Box20			
+19000219	Common	Common	Common	Dummy Smart Box19			
+19000220	Common	Common	Common	Dummy Smart Box18			
+19000221	Common	Common	Common	Dummy Smart Box17			
+19000222	Common	Common	Common	Dummy Smart Box16			
+19000223	Common	Common	Common	Dummy Smart Box15			
+19000224	Common	Common	Common	Dummy Smart Box14			
+19000225	Common	Common	Common	Dummy Smart Box13			
+19000226	Common	Common	Common	Dummy Smart Box12			
+19000227	Common	Common	Common	Dummy Smart Box11			
+19000228	Common	Common	Common	Dummy Smart Box30			
+19000229	Common	Common	Common	Dummy Smart Box29			
+19000230	Common	Common	Common	Dummy Smart Box28			
+19000231	Common	Common	Common	Dummy Smart Box27			
+19000232	Common	Common	Common	Dummy Smart Box26			
+19000233	Common	Common	Common	Dummy Smart Box25			
+19000234	Common	Common	Common	Dummy Smart Box24			
+19000235	Common	Common	Common	Dummy Smart Box23			
+19000236	Common	Common	Common	Dummy Smart Box22			
+19000237	Common	Common	Common	Dummy Smart Box21			
 23000000	Common	Common	Common	Summon: Elin Spyder			
 23000001	Common	Common	Common	Summon: Tuned Elin Spyder			
 23000002	Common	Common	Common	Summon: Polished Elin Spyder			
@@ -8057,6 +8120,7 @@
 60130218	Common	Common	Common	Harrowhold Teleport Scroll			
 60130220	Common	Common	Common	Keep and Manor Teleport Scroll			
 60130221	Common	Common	Common	Ruinous Manor Teleport Scroll			
+60130222	Common	Common	Common	Broken Prison Teleport Scroll			
 60131100	Common	Common	Common	Veteran Instance Reset Scroll			
 60131110	Common	Common	Common	Complete Veteran Crystalbind			
 60131120	Common	Common	Common	Valsekyr Crafter's Scroll			
@@ -8796,6 +8860,7 @@
 60951904	Common	Common	Common	Rising Wind			
 60951905	Common	Common	Common	Oneiric Lance			
 60951906	Common	Common	Common	Dream Bolt			
+60951907	Common	Common	Common	Hush!			
 60953900	Common	Common	Common	Grilled Pigling			
 61000001	Common	Common	Common	Featherlight Potion			
 61010700	Common	Common	Common	Gift of Resurrection			
@@ -8822,6 +8887,10 @@
 61100003	Common	Common	Common	Minor Battle Solution			
 61100004	Common	Common	Common	Major Battle Solution			
 61100005	Common	Common	Common	Prime Battle Solution			
+61100920	Common	Common	Common	Uncommon Noctenium Elixir			
+61100921	Common	Common	Common	Rare Noctenium Elixir			
+61100922	Common	Common	Common	Superior Noctenium Elixir			
+61100929	Common	Common	Common	Refined Noctenium Infusion 200929 (For comparison test)			
 61180100	Common	Common	Common	Arun's Vitae I Mote			
 61180200	Common	Common	Common	Arun's Vitae II Mote			
 61180300	Common	Common	Common	Arun's Vitae III Mote			
@@ -8941,6 +9010,7 @@
 61900104	Common	Common	Common	50% EP XP Boost (1 hour)			
 61900105	Common	Common	Common	100% EP XP Boost (1 hour)			
 61900111	Common	Common	Common	Scintillating Starlight			
+61900112	Common	Common	Common	Glitterball			
 61901000	Common	Common	Common	Snow Barrage			
 61901030	Common	Common	Common	Stinky Snowpile			
 61901100	Common	Common	Common	Hot Cider			
@@ -9132,10 +9202,10 @@
 61903423	Common	Common	Common	Imperator Handwear			
 61903424	Common	Common	Common	Imperator Footwear			
 61903425	Common	Common	Common	Gate Accessory Set Box			
-61903430	Common	Common	Common	Common Battle Pack			
-61903431	Common	Common	Common	Uncommon Battle Pack			
-61903432	Common	Common	Common	Rare Battle Pack			
-61903433	Common	Common	Common	Superior Battle Pack			
+61903430	Common	Common	Common	Battle Pack I			
+61903431	Common	Common	Common	Battle Pack II			
+61903432	Common	Common	Common	Battle Pack III			
+61903433	Common	Common	Common	Battle Pack IV			
 61903434	Common	Common	Common	Ambush Weapon Box			
 61903435	Common	Common	Common	Ambush Armor Box (Body)			
 61903436	Common	Common	Common	Ambush Armor Box (Hand)			
@@ -9184,6 +9254,7 @@
 61905011	Common	Common	Common	Summon Pet: Caddy			
 61905012	Common	Common	Common	Summon: Felicity			
 61905013	Common	Common	Common	Summon Pet: Wooley			
+61905014	Common	Common	Common	Summon Pet: Candyspinner			
 61906001	Common	Common	Common	Summon Pet: Candyspinner			
 61906003	Common	Common	Common	Summon Pet: Dragonette			
 61906004	Common	Common	Common	Summon Pet: Rambo			
@@ -9289,6 +9360,7 @@
 63005605	Common	Common	Common	Instance Reset Scroll: Lilith's Keep (Hard)			
 63005606	Common	Common	Common	Instance Reset Scroll: Ruinous Manor			
 63005607	Common	Common	Common	Instance Reset Scroll: Ruinous Manor (Hard)			
+63005608	Common	Common	Common	Instance Reset Scroll: Broken Prison			
 64000600	Common	Common	Common	Partial Invisibility Potion			
 64000700	Common	Common	Common	Superior Invisibility Potion			
 64000800	Common	Common	Common	Detection Totem			

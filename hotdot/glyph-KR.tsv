@@ -497,7 +497,7 @@
 26027	맹독의 화살	190100	icon_skills.venomarrow_tex	시간의 문장	icon_crest.e_crestpassivedurationup_tex	효과 지속 시간 40% 향상
 26028	집중 자세 : 용맹	210100	icon_skills.focusstance_tex	연계 정신의 문장 [거미줄 화살]	icon_crest.e_crestnextskillmpdown_tex	연계 스킬로 거미줄 화살 사용 시 소모 MP 13 감소
 26029	견제 사격	200100	icon_skills.contaningshot_tex	시간의 문장	icon_crest.e_crestpassivedurationup_tex	효과 지속 시간 50% 향상
-26030	궁수의 징표	120100	icon_skills.markingofarcher_tex	연계 정신의 문장 [맹독의 화살]	icon_crest.e_crestnextskillmpdown_tex	연계 스킬로 맹독의 화살 사용 시 소모 MP 31 감소
+26030	궁수의 징표	120100	icon_skills.markingofarcher_tex	연계 정신의 문장 [맹독의 화살]	icon_crest.e_crestnextskillmpdown_tex	연계 스킬로 맹독의 화살 사용 시 소모 MP 38 감소
 26031	다중 사격	20100	icon_skills.arrowshower_tex	연계 정신의 문장 [폭발의 덫]	icon_crest.e_crestnextskillmpdown_tex	연계 스킬로 폭발의 덫 사용 시 소모 MP 75 감소
 26032	이탈 공격	160100	icon_skills.escapingattack_tex	연계 투지의 문장 [관통 사격]	icon_crest.e_crestnextskillattackup_tex	연계 스킬로 관통 사격 사용 시 스킬 위력 25% 증가
 26033	거미줄 화살	170100	icon_skills.spiderarrow_tex	활력의 문장	icon_crest.e_crestactivespeedup_tex	스킬 적중 시 20% 확률로 12초 동안 전투 상태 이동 속도 10 증가 효과 추가 발생
@@ -920,7 +920,7 @@
 31040	비공 연타	200100	icon_skills.catchair_tex	투지의 문장	icon_crest.e_crestpassiveattackup_tex	스킬 위력 20% 증가
 31041	진정	190100	icon_skills.relax_tex	집중의 문장	icon_crest.e_crestpassivecooltimedown_tex	재사용 시간 20% 감소
 31042	차오르는 분노	210100	icon_skills.arouseangercancel_tex	집중의 문장	icon_crest.e_crestpassivecooltimedown_tex	재사용 시간 20% 감소
-31043	순간 돌진	400100	icon_skills.instancerush_tex	기회의 문장	icon_crest.e_crestactivecooltimereset_tex	20% 확률로 재사용 시간 초기화
+31043	순간 돌진	400100	icon_skills.instancerush_tex	집중의 문장	icon_crest.e_crestpassivecooltimedown_tex	재사용 시간 15% 감소
 31044	연타	10100	icon_skills.comboattack01_tex	투지의 문장	icon_crest.e_crestpassiveattackup_tex	스킬 위력 30% 증가
 31045	올려 차기	70100	icon_skills.upperkick_tex	집중의 문장	icon_crest.e_crestpassivecooltimedown_tex	재사용 시간 25% 감소
 31046	분노의 승천타	30100	icon_skills.dragonrisingblow_tex	집중의 문장	icon_crest.e_crestpassivecooltimedown_tex	재사용 시간 20% 감소
@@ -942,7 +942,7 @@
 31062	분노의 난타	170100	icon_skills.dashattack_tex	투지의 문장	icon_crest.e_crestpassiveattackup_tex	스킬 위력 20% 증가
 31063	분노의 난타	170100	icon_skills.dashattack_tex	근성의 문장	icon_crest.e_crestpassivehpheal_tex	타격 성공 시 마다 전체 HP 기준 1.5%의 HP 즉시 회복
 31064	비공 연타	200100	icon_skills.catchair_tex	투지의 문장	icon_crest.e_crestpassiveattackup_tex	스킬 위력 25% 증가
-31065	순간 돌진	400100	icon_skills.instancerush_tex	기회의 문장	icon_crest.e_crestactivecooltimereset_tex	30% 확률로 재사용 시간 초기화
+31065	순간 돌진	400100	icon_skills.instancerush_tex	집중의 문장	icon_crest.e_crestpassivecooltimedown_tex	재사용 시간 20% 감소
 31066	강타	20100	icon_skills.smashattack02_tex	필살의 문장	icon_crest.e_crestpassivecriticalup_tex	치명타 발생 확률 2배 증가
 31067	올려 차기	70100	icon_skills.upperkick_tex	연계 투지의 문장	icon_crest.e_crestnextskillattackup_tex	스킬 적중 시 100% 확률로 3초간 모든 스킬 위력 15% 증가
 31068	지면 강타	40100	icon_skills.poundonground_tex	필살의 문장	icon_crest.e_crestpassivecriticalup_tex	치명타 발생 확률 3배 증가

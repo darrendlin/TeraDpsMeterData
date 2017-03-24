@@ -767,10 +767,6 @@
 80600	Common	Common	Berserker	Огненная ярость VI	False		icon_skills.berserk_tex
 80630	Common	Common	Berserker	Огненная ярость VI	False	Fury	icon_skills.berserk_tex
 80700	Common	Common	Berserker	Огненная ярость VII	False		icon_skills.berserk_tex
-90100	Common	Common	Berserker	Клич победителя I	False		icon_skills.shout_tex
-90200	Common	Common	Berserker	Клич победителя II	False		icon_skills.shout_tex
-90300	Common	Common	Berserker	Клич победителя III	False		icon_skills.shout_tex
-90400	Common	Common	Berserker	Клич победителя IV	False		icon_skills.shout_tex
 100100	Common	Common	Berserker	Вихрь I	False		icon_skills.whirlwind_tex
 100110	Common	Common	Berserker	Вихрь I	False	hit 1	icon_skills.whirlwind_tex
 100111	Common	Common	Berserker	Вихрь I	False	hit 2	icon_skills.whirlwind_tex
@@ -968,8 +964,6 @@
 160500	Common	Common	Berserker	Ужасающий крик V	False		icon_skills.piercingshout_tex
 160600	Common	Common	Berserker	Ужасающий крик VI	False		icon_skills.piercingshout_tex
 160700	Common	Common	Berserker	Ужасающий крик VII	False		icon_skills.piercingshout_tex
-170100	Common	Common	Berserker	Ураган ударов I			icon_skills.gatheringrage_tex
-170200	Common	Common	Berserker	Ураган ударов II			icon_skills.gatheringrage_tex
 180100	Common	Common	Berserker	Смертельный удар I	False		icon_skills.soulstrike_tex
 180110	Common	Common	Berserker	Смертельный удар I	False	hit 1	icon_skills.soulstrike_tex
 180111	Common	Common	Berserker	Смертельный удар I	False	hit 2	icon_skills.soulstrike_tex
@@ -2230,42 +2224,49 @@
 180120	Common	Common	Gunner	РП-1	False		icon_skills.summondispenser_tex
 180121	Common	Common	Gunner	РП-1	False		icon_skills.summondispenser_tex
 180122	Common	Common	Gunner	РП-1	False		icon_skills.summondispenser_tex
+180131	Common	Common	Gunner	РП-1	False		icon_skills.summondispenser_tex
 180200	Common	Common	Gunner	РП-2	False		icon_skills.summondispenser_tex
 180201	Common	Common	Gunner	РП-2	False		icon_skills.summondispenser_tex
 180202	Common	Common	Gunner	РП-2	False		icon_skills.summondispenser_tex
 180220	Common	Common	Gunner	РП-2	False		icon_skills.summondispenser_tex
 180221	Common	Common	Gunner	РП-2	False		icon_skills.summondispenser_tex
 180222	Common	Common	Gunner	РП-2	False		icon_skills.summondispenser_tex
+180231	Common	Common	Gunner	РП-2	False		icon_skills.summondispenser_tex
 180300	Common	Common	Gunner	РП-3	False		icon_skills.summondispenser_tex
 180301	Common	Common	Gunner	РП-3	False		icon_skills.summondispenser_tex
 180302	Common	Common	Gunner	РП-3	False		icon_skills.summondispenser_tex
 180320	Common	Common	Gunner	РП-3	False		icon_skills.summondispenser_tex
 180321	Common	Common	Gunner	РП-3	False		icon_skills.summondispenser_tex
 180322	Common	Common	Gunner	РП-3	False		icon_skills.summondispenser_tex
+180331	Common	Common	Gunner	РП-3	False		icon_skills.summondispenser_tex
 180400	Common	Common	Gunner	РП-4	False		icon_skills.summondispenser_tex
 180401	Common	Common	Gunner	РП-4	False		icon_skills.summondispenser_tex
 180402	Common	Common	Gunner	РП-4	False		icon_skills.summondispenser_tex
 180420	Common	Common	Gunner	РП-4	False		icon_skills.summondispenser_tex
 180421	Common	Common	Gunner	РП-4	False		icon_skills.summondispenser_tex
 180422	Common	Common	Gunner	РП-4	False		icon_skills.summondispenser_tex
+180431	Common	Common	Gunner	РП-4	False		icon_skills.summondispenser_tex
 180500	Common	Common	Gunner	РП-5	False		icon_skills.summondispenser_tex
 180501	Common	Common	Gunner	РП-5	False		icon_skills.summondispenser_tex
 180502	Common	Common	Gunner	РП-5	False		icon_skills.summondispenser_tex
 180520	Common	Common	Gunner	РП-5	False		icon_skills.summondispenser_tex
 180521	Common	Common	Gunner	РП-5	False		icon_skills.summondispenser_tex
 180522	Common	Common	Gunner	РП-5	False		icon_skills.summondispenser_tex
+180531	Common	Common	Gunner	РП-5	False		icon_skills.summondispenser_tex
 180600	Common	Common	Gunner	РП-6	False		icon_skills.summondispenser_tex
 180601	Common	Common	Gunner	РП-6	False		icon_skills.summondispenser_tex
 180602	Common	Common	Gunner	РП-6	False		icon_skills.summondispenser_tex
 180620	Common	Common	Gunner	РП-6	False		icon_skills.summondispenser_tex
 180621	Common	Common	Gunner	РП-6	False		icon_skills.summondispenser_tex
 180622	Common	Common	Gunner	РП-6	False		icon_skills.summondispenser_tex
+180631	Common	Common	Gunner	РП-6	False		icon_skills.summondispenser_tex
 180700	Common	Common	Gunner	РП-7	False		icon_skills.summondispenser_tex
 180701	Common	Common	Gunner	РП-7	False		icon_skills.summondispenser_tex
 180702	Common	Common	Gunner	РП-7	False		icon_skills.summondispenser_tex
 180720	Common	Common	Gunner	РП-7	False		icon_skills.summondispenser_tex
 180721	Common	Common	Gunner	РП-7	False		icon_skills.summondispenser_tex
 180722	Common	Common	Gunner	РП-7	False		icon_skills.summondispenser_tex
+180731	Common	Common	Gunner	РП-7	False		icon_skills.summondispenser_tex
 190100	Common	Common	Gunner	СТ-1	False		icon_skills.summonsentrytower_tex
 190101	Common	Common	Gunner	СТ-1	False		icon_skills.summonsentrytower_tex
 190102	Common	Common	Gunner	СТ-1	False		icon_skills.summonsentrytower_tex
@@ -4415,19 +4416,33 @@
 11502	Common	Common	Slayer	Комбо-атака XV	False	hit 3	icon_skills.comboattack_tex
 11503	Common	Common	Slayer	Комбо-атака XV	False	hit 4	icon_skills.comboattack_tex
 20100	Common	Common	Slayer	Нокаутирующий удар I	False		icon_skills.handyslash_tex
+20130	Common	Common	Slayer	Нокаутирующий удар I	True		icon_skills.handyslash_tex
 20200	Common	Common	Slayer	Нокаутирующий удар II	False		icon_skills.handyslash_tex
+20230	Common	Common	Slayer	Нокаутирующий удар II	True		icon_skills.handyslash_tex
 20300	Common	Common	Slayer	Нокаутирующий удар III	False		icon_skills.handyslash_tex
+20330	Common	Common	Slayer	Нокаутирующий удар III	True		icon_skills.handyslash_tex
 20400	Common	Common	Slayer	Нокаутирующий удар IV	False		icon_skills.handyslash_tex
+20430	Common	Common	Slayer	Нокаутирующий удар IV	True		icon_skills.handyslash_tex
 20500	Common	Common	Slayer	Нокаутирующий удар V	False		icon_skills.handyslash_tex
+20530	Common	Common	Slayer	Нокаутирующий удар V	True		icon_skills.handyslash_tex
 20600	Common	Common	Slayer	Нокаутирующий удар VI	False		icon_skills.handyslash_tex
+20630	Common	Common	Slayer	Нокаутирующий удар VI	True		icon_skills.handyslash_tex
 20700	Common	Common	Slayer	Нокаутирующий удар VII	False		icon_skills.handyslash_tex
+20730	Common	Common	Slayer	Нокаутирующий удар VII	True		icon_skills.handyslash_tex
 20800	Common	Common	Slayer	Нокаутирующий удар VIII	False		icon_skills.handyslash_tex
+20830	Common	Common	Slayer	Нокаутирующий удар VIII	True		icon_skills.handyslash_tex
 20900	Common	Common	Slayer	Нокаутирующий удар IX	False		icon_skills.handyslash_tex
+20930	Common	Common	Slayer	Нокаутирующий удар IX	True		icon_skills.handyslash_tex
 21000	Common	Common	Slayer	Нокаутирующий удар X	False		icon_skills.handyslash_tex
+21030	Common	Common	Slayer	Нокаутирующий удар X	True		icon_skills.handyslash_tex
 21100	Common	Common	Slayer	Нокаутирующий удар XI	False		icon_skills.handyslash_tex
+21130	Common	Common	Slayer	Нокаутирующий удар XI	True		icon_skills.handyslash_tex
 21200	Common	Common	Slayer	Нокаутирующий удар XII	False		icon_skills.handyslash_tex
+21230	Common	Common	Slayer	Нокаутирующий удар XII	True		icon_skills.handyslash_tex
 21300	Common	Common	Slayer	Нокаутирующий удар XIII	False		icon_skills.handyslash_tex
+21330	Common	Common	Slayer	Нокаутирующий удар XIII	True		icon_skills.handyslash_tex
 21400	Common	Common	Slayer	Нокаутирующий удар XIV	False		icon_skills.handyslash_tex
+21430	Common	Common	Slayer	Нокаутирующий удар XIV	True		icon_skills.handyslash_tex
 30100	Common	Common	Slayer	Смерч I	False		icon_skills.sworddance_tex
 30200	Common	Common	Slayer	Смерч II	False		icon_skills.sworddance_tex
 30300	Common	Common	Slayer	Смерч III	False		icon_skills.sworddance_tex
@@ -4458,10 +4473,6 @@
 60400	Common	Common	Slayer	Удар в спину IV	False		icon_skills.turnaroundattack_tex
 60500	Common	Common	Slayer	Удар в спину V	False		icon_skills.turnaroundattack_tex
 60600	Common	Common	Slayer	Удар в спину VI	False		icon_skills.turnaroundattack_tex
-70100	Common	Common	Slayer	Клич победителя I	False		icon_skills.shout_tex
-70200	Common	Common	Slayer	Клич победителя II	False		icon_skills.shout_tex
-70300	Common	Common	Slayer	Клич победителя III	False		icon_skills.shout_tex
-70400	Common	Common	Slayer	Клич победителя IV	False		icon_skills.shout_tex
 80100	Common	Common	Slayer	Рубящий удар I	False		icon_skills.cuttingslash_tex
 80130	Common	Common	Slayer	Рубящий удар I	True		icon_skills.cuttingslash_tex
 80200	Common	Common	Slayer	Рубящий удар II	False		icon_skills.cuttingslash_tex
@@ -5334,10 +5345,7 @@
 131000	Common	Common	Warrior	Ответный удар X	False		icon_skills.risingattack_tex
 131100	Common	Common	Warrior	Ответный удар XI	False		icon_skills.risingattack_tex
 131200	Common	Common	Warrior	Ответный удар XII	False		icon_skills.risingattack_tex
-140100	Common	Common	Warrior	Инстинкт охотника	False	On	icon_skills.aimingankle_tex
-140150	Common	Common	Warrior	Инстинкт охотника	False	Off	icon_skills.aimingankle_tex
-140200	Common	Common	Warrior	Инстинкт охотника	False	On	icon_skills.aimingankle_tex
-140250	Common	Common	Warrior	Инстинкт охотника	False	Off	icon_skills.aimingankle_tex
+140100	Common	Common	Warrior	Инстинкт охотника			icon_skills.aimingankle_tex
 160100	Common	Common	Warrior	Разъяряющий порез I	False		icon_skills.rushingslash_tex
 160101	Common	Common	Warrior	Разъяряющий порез I	False		icon_skills.rushingslash_tex
 160200	Common	Common	Warrior	Разъяряющий порез II	False		icon_skills.rushingslash_tex
@@ -5541,6 +5549,12 @@
 331200	Common	Common	Warrior	Теневой удар XII	False		icon_skills.shadowchange_tex
 340100	Common	Common	Warrior	Связующий меч	False		icon_skills.bindingblade_tex
 350100	Common	Common	Warrior	Вспышка гнева I	False		icon_skills.provokerage_tex
+360100	Common	Common	Warrior	Град ударов XI	False		icon_skills.pointattack_tex
+360130	Common	Common	Warrior	Град ударов XI	True		icon_skills.pointattack_tex
+370100	Common	Common	Warrior	Рваная рана VII	False		icon_skills.dualslash_tex
+370130	Common	Common	Warrior	Рваная рана VII	True		icon_skills.dualslash_tex
+380100	Common	Common	Warrior	Коса II	False		icon_skills.raker_tex
+380130	Common	Common	Warrior	Коса II	True		icon_skills.raker_tex
 10	Common	Common	Common	Предмет для проверки умений			
 4999	Common	Common	Common	Самоуничтожение			
 111110	Common	Common	Common	[Припасы Федерации] Призыв: Гнедой мерин			
@@ -5961,14 +5975,14 @@
 122238	Common	Common	Common	Призыв: Лама Ирис (HP)			
 122239	Common	Common	Common	Призыв: Лама Ирис (MP)			
 122240	Common	Common	Common	Призыв: Лама Ирис (HP, MP)			
-122241	Common	Common	Common	Призыв: Черный дракон			
-122242	Common	Common	Common	Призыв: Красный дракон			
-122243	Common	Common	Common	Призыв: Призрачный дракон			
-122244	Common	Common	Common	Призыв: Лазурный дракон			
-122245	Common	Common	Common	Призыв: Редкий черный дракон			
-122246	Common	Common	Common	Призыв: Редкий красный дракон			
-122247	Common	Common	Common	Призыв: Редкий призрачный дракон			
-122248	Common	Common	Common	Призыв: Редкий лазурный дракон			
+122241	Common	Common	Common	Призыв: Особый черный дракон			
+122242	Common	Common	Common	Призыв: Особый красный дракон			
+122243	Common	Common	Common	Призыв: Особый призрачный дракон			
+122244	Common	Common	Common	Призыв: Особый лазурный дракон			
+122245	Common	Common	Common	Призыв: Легендарный черный дракон			
+122246	Common	Common	Common	Призыв: Легендарный красный дракон			
+122247	Common	Common	Common	Призыв: Легендарный призрачный дракон			
+122248	Common	Common	Common	Призыв: Легендарный лазурный дракон			
 149490	Common	Common	Common	[Интернет-кафе] Набор ящиков со снаряжением Келивана			
 149491	Common	Common	Common	[Интернет-кафе] Ящик со снаряжением Келивана (воин)			
 149492	Common	Common	Common	[Интернет-кафе] Ящик со снаряжением Келивана (рыцарь)			
@@ -6889,22 +6903,22 @@
 12000068	Common	Common	Common	[Событие] Ящик с доспехами кузнеца Кайрака			
 12000075	Common	Common	Common	[Событие] Сундук с ваучером на смену облика (1 день)			
 12000076	Common	Common	Common	[Событие] Умение всадника: Пудинг 7 уровня			
-12200001	Common	Common	Common	Призыв: Черный дракон			
-12200002	Common	Common	Common	Призыв: Красный дракон			
-12200003	Common	Common	Common	Призыв: Призрачный дракон			
-12200004	Common	Common	Common	Призыв: Лазурный дракон			
-12200005	Common	Common	Common	Призыв: Редкий черный дракон			
-12200006	Common	Common	Common	Призыв: Редкий красный дракон			
-12200007	Common	Common	Common	Призыв: Редкий призрачный дракон			
-12200008	Common	Common	Common	Призыв: Редкий лазурный дракон			
-12200009	Common	Common	Common	Призыв: Черный дракон			
-12200010	Common	Common	Common	Призыв: Красный дракон			
-12200011	Common	Common	Common	Призыв: Призрачный дракон			
-12200012	Common	Common	Common	Призыв: Лазурный дракон			
-12200013	Common	Common	Common	Призыв: Редкий черный дракон			
-12200014	Common	Common	Common	Призыв: Редкий красный дракон			
-12200015	Common	Common	Common	Призыв: Редкий призрачный дракон			
-12200016	Common	Common	Common	Призыв: Редкий лазурный дракон			
+12200001	Common	Common	Common	Призыв: Особый черный дракон			
+12200002	Common	Common	Common	Призыв: Особый красный дракон			
+12200003	Common	Common	Common	Призыв: Особый призрачный дракон			
+12200004	Common	Common	Common	Призыв: Особый лазурный дракон			
+12200005	Common	Common	Common	Призыв: Легендарный черный дракон			
+12200006	Common	Common	Common	Призыв: Легендарный красный дракон			
+12200007	Common	Common	Common	Призыв: Легендарный призрачный дракон			
+12200008	Common	Common	Common	Призыв: Легендарный лазурный дракон			
+12200009	Common	Common	Common	Призыв: Особый черный дракон			
+12200010	Common	Common	Common	Призыв: Особый красный дракон			
+12200011	Common	Common	Common	Призыв: Особый призрачный дракон			
+12200012	Common	Common	Common	Призыв: Особый лазурный дракон			
+12200013	Common	Common	Common	Призыв: Легендарный черный дракон			
+12200014	Common	Common	Common	Призыв: Легендарный красный дракон			
+12200015	Common	Common	Common	Призыв: Легендарный призрачный дракон			
+12200016	Common	Common	Common	Призыв: Легендарный лазурный дракон			
 12200017	Common	Common	Common	Призыв: Черный дракон			
 12200018	Common	Common	Common	Призыв: Красный дракон			
 12200019	Common	Common	Common	Призыв: Призрачный дракон			
@@ -7896,7 +7910,7 @@
 16600212	Common	Common	Common	'Умный' ящик: Форма офицера 			
 16600213	Common	Common	Common	'Умный' ящик: Парадная форма офицера			
 16600214	Common	Common	Common	'Умный' ящик: Безумный облик оружия			
-16600215	Common	Common	Common	'Умный' ящик: Облик оружия гурмана			
+16600215	Common	Common	Common	Умный' ящик: Облик оружия гурмана			
 16600216	Common	Common	Common	'Умный' ящик: Грустный щеночек			
 16600217	Common	Common	Common	'Умный' ящик: Наряд пингвина			
 16600218	Common	Common	Common	'Умный' ящик: Заботливый медведь			
@@ -8025,12 +8039,12 @@
 19000048	Common	Common	Common	'Умный' ящик: Ковбои и рестлеры (можно красить, 14 дней)			
 19000049	Common	Common	Common	'Умный' ящик: Редкая тактическая броня			
 19000050	Common	Common	Common	'Умный' ящик: Тактическая броня			
-19000099	Common	Common	Common	"Умный" ящик с клубным платьем			
+19000099	Common	Common	Common	'Умный' ящик с клубным платьем			
 19000100	Common	Common	Common	'Умный' ящик: Клубное платье (14 дней)			
 19000101	Common	Common	Common	'Умный' ящик: Редкое клубное платье			
-19000102	Common	Common	Common	Ящик с редким клубным костюмом (14 дней)			
-19000103	Common	Common	Common	'Умный' ящик: Роскошное клубное платье			
-19000104	Common	Common	Common	'Умный' ящик: Роскошное клубное платье (14 дней)			
+19000102	Common	Common	Common	'Умный' ящик: Редкое клубное платье (14 дней)			
+19000103	Common	Common	Common	'Умный' ящик: Роскошное клубное платье (можно красить)			
+19000104	Common	Common	Common	'Умный' ящик: Роскошное клубное платье (14 дней, можно красить)			
 19000130	Common	Common	Common	'Умный' ящик: облик оружия Темной стороны			
 19000141	Common	Common	Common	'Умный' ящик: Зимняя одежда			
 19000142	Common	Common	Common	'Умный' ящик: Зимняя одежда (14 дней)			
@@ -8040,6 +8054,38 @@
 19000152	Common	Common	Common	Smart Box: Festive Santa Costume			
 19000153	Common	Common	Common	Smart Box: Snowsuit			
 19000154	Common	Common	Common	Smart Box: Purple Spectral Weapon Skin			
+19000177	Common	Common	Common	'Умный' ящик: Доспехи Белого Дракона			
+19000178	Common	Common	Common	'Умный' ящик: Доспехи Белого Дракона (14 дней)			
+19000179	Common	Common	Common	'Умный' ящик: Доспехи Черного Дракона			
+19000180	Common	Common	Common	'Умный' ящик: Доспехи Черного Дракона (14 дней)			
+19000181	Common	Common	Common	'Умный' ящик: Редкие доспехи Черного Дракона			
+19000182	Common	Common	Common	'Умный' ящик: Редкие доспехи Черного Дракона (14 дней)			
+19000183	Common	Common	Common	'Умный' ящик: Оружие Белого Дракона			
+19000184	Common	Common	Common	'Умный' ящик: Оружие Белого Дракона (14 дней)			
+19000185	Common	Common	Common	'Умный' ящик: Оружие Черного Дракона			
+19000186	Common	Common	Common	'Умный' ящик: Оружие Черного Дракона (14 дней)			
+19000187	Common	Common	Common	'Умный' ящик: Редкое оружие Черного Дракона			
+19000188	Common	Common	Common	'Умный' ящик: Редкое оружие Черного Дракона (14 дней)			
+19000218	Common	Common	Common	Dummy Smart Box20			
+19000219	Common	Common	Common	Dummy Smart Box19			
+19000220	Common	Common	Common	Dummy Smart Box18			
+19000221	Common	Common	Common	Dummy Smart Box17			
+19000222	Common	Common	Common	Dummy Smart Box16			
+19000223	Common	Common	Common	Dummy Smart Box15			
+19000224	Common	Common	Common	Dummy Smart Box14			
+19000225	Common	Common	Common	Dummy Smart Box13			
+19000226	Common	Common	Common	Dummy Smart Box12			
+19000227	Common	Common	Common	Dummy Smart Box11			
+19000228	Common	Common	Common	Dummy Smart Box30			
+19000229	Common	Common	Common	Dummy Smart Box29			
+19000230	Common	Common	Common	Dummy Smart Box28			
+19000231	Common	Common	Common	Dummy Smart Box27			
+19000232	Common	Common	Common	Dummy Smart Box26			
+19000233	Common	Common	Common	Dummy Smart Box25			
+19000234	Common	Common	Common	Dummy Smart Box24			
+19000235	Common	Common	Common	Dummy Smart Box23			
+19000236	Common	Common	Common	Dummy Smart Box22			
+19000237	Common	Common	Common	Dummy Smart Box21			
 23000000	Common	Common	Common	Призыв: Минимобиль			
 23000001	Common	Common	Common	Призыв: Минимобиль (MP)			
 23000002	Common	Common	Common	Призыв: Минимобиль (HP)			
@@ -8961,6 +9007,7 @@
 60951904	Common	Common	Common	Водоворот			
 60951905	Common	Common	Common	Луч истребления			
 60951906	Common	Common	Common	Сфера разделения			
+60951907	Common	Common	Common	Тихо!			
 60953900	Common	Common	Common	Ломоть мяса поросенка			
 61000001	Common	Common	Common	Зелье легкого пера			
 61010700	Common	Common	Common	Дар - воскрешение			
@@ -8987,6 +9034,10 @@
 61100003	Common	Common	Common	Боевое зелье низкого уровня			
 61100004	Common	Common	Common	Боевое зелье среднего уровня			
 61100005	Common	Common	Common	Боевое зелье высокого уровня			
+61100920	Common	Common	Common	Чистый ноктиний (элитный)			
+61100921	Common	Common	Common	Чистый ноктиний (редкий)			
+61100922	Common	Common	Common	Чистый ноктиний (легендарный)			
+61100929	Common	Common	Common	Чистый ноктиний 200929 (пробный, для сравнения)			
 61180100	Common	Common	Common	Сфера жизни Аруна I			
 61180200	Common	Common	Common	Сфера жизни Аруна II			
 61180300	Common	Common	Common	Сфера жизни Аруна III			
@@ -9302,7 +9353,7 @@
 61903431	Common	Common	Common	Средний боевой комплект Драколота			
 61903432	Common	Common	Common	Большой боевой комплект Драколота			
 61903433	Common	Common	Common	Элитный боевой комплект Драколота			
-61903434	Common	Common	Common	Ящик с зачарованным оружием Кайрака			
+61903434	Common	Common	Common	Ящик с оружием Кайрака: Очарование			
 61903435	Common	Common	Common	Ящик с зачарованными доспехами Кайрака			
 61903436	Common	Common	Common	Ящик с зачарованными перчатками Кайрака			
 61903437	Common	Common	Common	Ящик с зачарованными поножами Кайрака			
@@ -9350,6 +9401,7 @@
 61905011	Common	Common	Common	Призыв питомца: Кадди			
 61905012	Common	Common	Common	Призыв питомца: Счастливчик			
 61905013	Common	Common	Common	Призыв питомца: Овечка Долли			
+61905014	Common	Common	Common	Призыв питомца: Конфетка (огран. время)			
 61906001	Common	Common	Common	Призыв питомца: Конфетка			
 61906003	Common	Common	Common	Призыв питомца: Драконетта			
 61906004	Common	Common	Common	Призыв питомца: Рeмбо			
